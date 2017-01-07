@@ -1,0 +1,12 @@
+Package: com.cabralcole.ccrecord
+Version: 0.0.1-3
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs//com.cabralcole.ccrecord_0.0.1-3_iphoneos-arm.deb
+Size: 8
+Description: Screen recording in control center.
+Name: CCRecord
+Author: M Dallak @m_dallak <M_Dallak@outlook.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccrecordDp
