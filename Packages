@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: M Dallak <m_dallak@outlook.com>
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/com.cabralcole.ccrecord_0.0.1-3_iphoneos-arm.deb
-Size: 5638
-MD5sum: fc1cce3367872b240b8d9d167da15816
-SHA1: 5b1e88500f64fe1ef6b822edc3bdcf49b55757a8
-SHA256: 259affb315c62768fdcecae4d2e2fcb9e13ba3126b42435d04806bf1f3da9562
+Size: 5174
+MD5sum: 6cc302b162c44c150f1295fef263e2a8
+SHA1: f21c96c2a4aff74d70eaca8344dc8ad218308621
+SHA256: 0c2aa9c14d2a7775677b93f4b51b9ad774f4ff9344b1a44e301da876098b5ac0
 Section: Tweaks
 Priority: optional
 Description: Screen recording in control center.
@@ -18,24 +18,21 @@ Name: CCRecord
 Sponsor: github.io <mdallak.github.io>
 
 Package: com.chpwn.iconsupport
-Version: 1.9.4-4
+Version: 1.9.4-5
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 140
-Pre-Depends: firmware (>= 3.0), firmware (<< 10.0)
+Maintainer: M Dallak <m_dallak@outlook.com>
+Pre-Depends: firmware (>= 3.0), firmware (<< 10.3)
 Depends: mobilesubstrate, firmware (>= 6.0) | jp.ashikase.bugfix.stuckpages, firmware (>= 6.0) | jp.ashikase.bugfix.duplicateicons
-Filename: ./debs/com.chpwn.iconsupport_1.9.4-4_iphoneos-arm.deb
-Size: 31578
-MD5sum: d7445226f53d8a5f58fead69785ae28d
-SHA1: 760c7c6ee06cce025f03f0d5fc4daa5c6bfd2771
-SHA256: dc00a3b651e7c16b713097cd9d318a826e1111a551236658ec08ef918c5da933
+Filename: ./debs/com.chpwn.iconsupport_1.9.4-5_iphoneos-arm.deb
+Size: 31050
+MD5sum: e7c9073ccdc21430af43618540fa8944
+SHA1: 7419efe3eda1bded8e50408e76bcae13865f1fa8
+SHA256: d0cedd1e456c8651c71dc6ea8e87f950a6f44333e196eca32087c8495fc8893b
 Section: Development
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsupportData
 Description: Support library for safe icon tweaks.
 Tag: role::developer, purpose::extension
-Author: ashikase <support@ashikase.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconsupportData
-Dev: ashikase
+Author: M Dallak <m_dallak@outlook.com>
+Dev: M Dallak
 Name: IconSupport
-Sponsor: thebigboss.org <http://thebigboss.org>
+Sponsor: github.io <mdallak.github.io>
 
