@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: M Dallak <m_dallak@outlook.com>
 Depends: firmware (>= 7.1), mobilesubstrate, preferenceloader
 Filename: ./debs/com.alexzielenski.zeppelin_3.0.0_iphoneos-arm.deb
-Size: 278176
-MD5sum: 3718d3c1b35e97493cd2e51a2e1d8f21
-SHA1: e0c97b005e4ebf8445f343a0c828123eb3e1c1c1
-SHA256: 595bcba652a6bc20928427e947c4f0e8f85a0e41a9b985a060d66b6104134dbf
+Size: 277884
+MD5sum: e4224bf22e51b3cf49b3fa7ba34489ed
+SHA1: 696d5ed47201bad1952b508932ac8d2eee45892b
+SHA256: 9a40af1f0f3651b8efceefa22edb67cfd93f5b351b6f1211f0142df73820c6b7
 Section: Tweaks
 Priority: extra
 Description: Replaces carrier text with an image
@@ -22,10 +22,10 @@ Architecture: iphoneos-arm
 Maintainer: M Dallak <m_dallak@outlook.com>
 Depends: firmware (>= 8.0), mobilesubstrate
 Filename: ./debs/com.cabralcole.ccrecord_0.0.1-3_iphoneos-arm.deb
-Size: 5178
-MD5sum: c7138237060242d63954a73a5b9f7cc3
-SHA1: 7b60cc6b18eaf1f48b147c69690a81c41a169f7e
-SHA256: 9194e67e45418a8eb1db4943acf0863f0dd2f62e654b999e687aaf3bfcab9067
+Size: 5154
+MD5sum: a64b05518c45218059774c0192a28382
+SHA1: f79256b29c1c3a299eb47d6679db392703e31be4
+SHA256: 0c29d547add555f2c18b0943baf102009c9dd5be5fb53cf2dbd6c556327f47d9
 Section: Tweaks
 Priority: optional
 Description: Screen recording in control center.
@@ -42,10 +42,10 @@ Maintainer: M Dallak <m_dallak@outlook.com>
 Pre-Depends: firmware (>= 3.0), firmware (<< 10.3)
 Depends: mobilesubstrate, firmware (>= 6.0) | jp.ashikase.bugfix.stuckpages, firmware (>= 6.0) | jp.ashikase.bugfix.duplicateicons
 Filename: ./debs/com.chpwn.iconsupport_1.9.4-5_iphoneos-arm.deb
-Size: 32340
-MD5sum: 483cf6e7343fc58f487a826e21312d78
-SHA1: 72cf9fed92d6e7ead03733f65a25c48402dc831e
-SHA256: 569a9c21d0a8a9c78293ff885a70aeea0e83c42e4df43b8b47e07c366efcfae0
+Size: 32294
+MD5sum: 0b088aa8364636b8bb050cdb558ed5e7
+SHA1: 4aafb887c3c20b3d7c6fdbc08bbd94517a69a907
+SHA256: b017c5d9bd793ab8f97c391dc3cb50936e46918ba7e51808d0ff6ca5864af70e
 Section: Development
 Description: Support library for safe icon tweaks.
 Tag: role::developer, purpose::extension
