@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: M Dallak <m_dallak@outlook.com>
 Depends: firmware (>= 7.1), mobilesubstrate, preferenceloader
 Filename: ./debs/com.alexzielenski.zeppelin_3.0.0_iphoneos-arm.deb
-Size: 2771888
-MD5sum: 010as4f4a3b6f01eaeb903f5a813bf40b
-SHA1: 2c958d859s1abd029248645d5d4242f846e799505
-SHA256: 8d85b39c9sed9fc36e7db82cf261688a696b14dc44a52bbbba66a2263b2fc4277
+Size: 27711888
+MD5sum: 010assw24f4a3b6f01eaeb903f5a813bf40b
+SHA1: 2c958d859ss23s1abd029248645d5d4242f846e799505
+SHA256: 8d85b39sa3c9sed9fc36e7db82cf261688a696b14dc44a52bbbba66a2263b2fc4277
 Section: Tweaks
 Priority: extra
 Description: Replaces carrier text with an image
