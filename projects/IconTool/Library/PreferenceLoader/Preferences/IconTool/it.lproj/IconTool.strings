@@ -1,0 +1,72 @@
+/* 
+  IconTool.strings
+  IconTool
+
+  Created by shenyue on 13-4-22.
+
+*/
+
+"Activate via Double Tap" = "Attiva con doppia pressione";
+"Tip" = "Avviso";
+"Okay" = "OK";
+"Renaming" = "Rinomina in corso...";
+"Cancel" = "Annulla";
+"Apply" = "Applica";
+"Restoring..." = "Ripristino dati in corso...";
+"Restore Data Successfully!" = "Ripristino dati riuscito!";
+"Confirm" = "Conferma";
+"Delete" = "Elimina";
+"NO" = "No";
+"Yes" = "Si";
+"Please install iFile from cydia first!" = "Installare prima iFile da Cydia!";
+"Clear Caches..." = "Pulizia cache in corso...";
+"Clear Caches Successfully!" = "Pulizia cache riuscita!";
+"Backuping..." = "Backup dati in corso...";
+"Backup Data Successfully!" = "Backup dati riuscito!";
+"Open in iFile" = "Apri in iFile";
+"Rename Icon" = "Rinomina icona";
+"Clear Badge" = "Pulisci badge";
+"Launch" = "Avvia";
+"Clear Caches" = "Pulisci cache";
+"Backup Data" = "Backup dati";
+"Restore Data..." = "Ripristina dati...";
+"Cancel Downloading" = "Annulla download";
+"Please use backup first!" = "Creare prima un backup dati!";
+"Select backup time to restore" = "Seleziona il backup dati temporale da ripristinare";
+"Conflicts with Velox's Swipe. but you can use Swipe Up for Velox and Swipe Down for IconTool, just for example." = "Può procurare conflitti con Velox. Per esempio si può utilizzare lo scorri sù per Velox e lo Scorri giù per IconTool.";
+"Mark New" = "Segna come nuovo";
+"Set Custom Badge" = "Badge personalizzato";
+"Reboot&Respring" = "(★Il sistema o la springboard verranno riavviati automaticamente★)";
+"rebooting..." = "Riavvio in corso...";
+"SMS Backup" = "Backup SMS";
+"SMS Restore..." = "Ripristino SMS...";
+"Error" = "Errore licenza";
+"License" = "Acquistare IconTool da Cydia! Se è già stato acquistato, premere recupera";
+"Fetch" = "Recupera";
+"Fetching..." = "Recupero in corso...";
+"Notes Backup" = "Backup note";
+"Notes Restore..." = "Ripristino note...";
+"Contacts Backup" = "Backup contatti";
+"Contacts Restore..." = "Ripristino contatti...";
+"CallRecord Backup" = "Backup registro chiamate";
+"CallRecord Restore..." = "Ripristino registro chiamate...";
+"Activate via Swipe Up" = "Scorri verso l'alto";
+"Activate via Swipe Down" = "Scorri verso il basso";
+"Toggle Swipe Action on/off Requires Respring" = "I cambiamenti hanno effetto immediatamente.";
+"Activate via Swipe Left" = "Scorri verso sinistra (Solo iOS 7)";
+"Activate via Swipe Right" = "Scorri verso destra (Solo iOS 7)";
+"Disable Spotlight" = "Disabilita spotlight (iOS 7)";
+"If not Disable Spotlight on iOS7, Swipe Down action won't work." = "Per poter utilizzare il gesto di scorrimento verso il basso in iOS 7, è necessario disabilitare spotlight.";
+"Rebuild All Icon" = "Ricostruisci tutte le icone";
+"StatusBar Fix" = "Correzione barra di stato";
+"The System will respring automatically, Are you sure?" = "Verrà effettuato un respring, sei sicuro di voler continuare?";
+"All this app's data will be removed, Are you sure?" = "Tutti i dati utente di quest'applicazione verranno rimossi, sei sicuro di voler continuare?";
+"Remove All User Data" = "Rimuovi tutti i dati utente";
+"Warning" = "Attenzione";
+"Removing Data..." = "Rimozione dati in corso...";
+"Show App Cache Size" = "Mostra dimensioni cache";
+"File System Browser" = "File System Browser";
+"Current Browser" = "Current Browser";
+"Open in Filza" = "Open in Filza";
+"Please install Filza File Manager from cydia first!" = "Please install Filza File Manager from cydia first!";
+"Disable gesture in Dock" = "Disable gesture in Dock";

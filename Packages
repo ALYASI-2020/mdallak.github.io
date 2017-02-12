@@ -1,56 +1,23 @@
-Package: com.alexzielenski.zeppelin
-Version: 3.0.0
+Package: org.ioshack.icontool
+Version: 1.9-6
 Architecture: iphoneos-arm
-Maintainer: M Dallak <m_dallak@outlook.com>
-Depends: firmware (>= 7.1), mobilesubstrate, preferenceloader
-Filename: ./debs/com.alexzielenski.zeppelin_3.0.0_iphoneos-arm.deb
-Size: 277888
-MD5sum: 010a4f4a3b6f01eaeb903f5a813bf40b
-SHA1: 2c958d8591abd029248645d5d4242f846e799505
-SHA256: 8d85b39c9ed9fc36e7db82cf261688a696b14dc44a52bbbba66a2263b2fc4277
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1302
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2), com.ericasadun.utilities
+Conflicts: com.mdallak.iconrenamer
+Filename: ./debs/org.ioshack.icontool_1.9-6_iphoneos-arm.deb
+Size: 385248
+MD5sum: 93395a4d9ad000ea3b74a73da92f2a22
+SHA1: 188ceda1364dfc7c2ed3b9605da5980766ba419d
+SHA256: 5767dd7285169c19ef42f58d84a7c3e38d2ca9cfc5d06f1aa71ff8b582eee3f8
 Section: Tweaks
-Priority: extra
-Description: Replaces carrier text with an image
-Author: M Dallak <m_dallak@outlook.com>
-Icon: http://i.imgur.com/RnZA16c.png
-Name: Zeppelin
-Sponsor: github.io <mdallak.github.io>
-
-Package: com.cabralcole.ccrecord
-Version: 0.0.1-3
-Architecture: iphoneos-arm
-Maintainer: M Dallak <m_dallak@outlook.com>
-Depends: firmware (>= 8.0), mobilesubstrate
-Filename: ./debs/com.cabralcole.ccrecord_0.0.1-3_iphoneos-arm.deb
-Size: 5154
-MD5sum: 34e79496463a2e66b5a712fd24254cce
-SHA1: 172f764f5a1b7a37f4e4b9e513c913c7d1c74517
-SHA256: d2c3bda1bea7c27d6f5682205cd42fc197ca5f96a41f342d10fe3e8516becd0f
-Section: Tweaks
-Priority: optional
-Description: Screen recording in control center.
-Tag: purpose::extension, compatible::ios 8 - 10
-Author: M Dallak <m_dallak@outlook.com>
-Dev: M Dallak
-Name: CCRecord
-Sponsor: github.io <mdallak.github.io>
-
-Package: com.chpwn.iconsupport
-Version: 1.9.4-5
-Architecture: iphoneos-arm
-Maintainer: M Dallak <m_dallak@outlook.com>
-Pre-Depends: firmware (>= 3.0), firmware (<< 10.3)
-Depends: mobilesubstrate, firmware (>= 6.0) | jp.ashikase.bugfix.stuckpages, firmware (>= 6.0) | jp.ashikase.bugfix.duplicateicons
-Filename: ./debs/com.chpwn.iconsupport_1.9.4-5_iphoneos-arm.deb
-Size: 32288
-MD5sum: 1fc37890e3662478e38f79ce34c223dd
-SHA1: cb45d701fa281e893e1b1e9dea724d0522d010a4
-SHA256: d60c14257d84d37bc6c71d8acbb69ef1e8d8e2ef89e5ecc7de59caf3503a6e46
-Section: Development
-Description: Support library for safe icon tweaks.
-Tag: role::developer, purpose::extension
-Author: M Dallak <m_dallak@outlook.com>
-Dev: M Dallak
-Name: IconSupport
-Sponsor: github.io <mdallak.github.io>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
+Description: app tools menu from jiggle mode
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Author: ioshack <wsdhr1982@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
+Dev: ioshack
+Icon: file:///Library/PreferenceLoader/Preferences/IconTool/IconTool@2x.png
+Name: Icon Tool
+Sponsor: thebigboss.org <http://thebigboss.org>
 

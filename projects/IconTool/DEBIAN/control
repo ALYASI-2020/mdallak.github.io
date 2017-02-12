@@ -1,0 +1,17 @@
+Author: ioshack <wsdhr1982@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Icon Tool
+Package: org.ioshack.icontool
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2), com.ericasadun.utilities
+Conflicts: com.mdallak.iconrenamer
+Section: Tweaks
+Installed-Size: 1302
+Version: 1.9-6
+Architecture: iphoneos-arm
+Description: app tools menu from jiggle mode
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ioshack
+Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
+Icon: file:///Library/PreferenceLoader/Preferences/IconTool/IconTool@2x.png

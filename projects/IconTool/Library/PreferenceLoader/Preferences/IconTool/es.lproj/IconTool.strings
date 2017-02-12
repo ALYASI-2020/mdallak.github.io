@@ -1,0 +1,72 @@
+/*
+ IconTool.strings
+ IconTool
+ 
+ Created by shenyue on 13-4-22.
+ 
+ */
+
+"Activate via Double Tap" = "Activar con Toque Doble";
+"Apply" = "Aplicar";
+"Backup Data" = "Guardar Datos";
+"Backup Data Successfully!" = "¡Datos Guardados!";
+"Backuping..." = "Guardando...";
+"Cancel" = "Cancelar";
+"Cancel Downloading" = "Cancelar Descargas";
+"Clear Badge" = "Quitar Globos";
+"Clear Caches" = "Limpiar Caches";
+"Clear Caches Successfully!" = "¡Caches Limpiados!";
+"Clear Caches..." = "Limpiando Caches...";
+"Confirm" = "Confirmar";
+"Delete" = "Borrar";
+"Launch" = "Abrir";
+"NO" = "No";
+"Okay" = "Ok";
+"Open in iFile" = "Abrir en iFile";
+"Please install iFile from cydia first!" = "Por favor, primero instala iFile desde Cydia";
+"Please use backup first!" = "Por favor, guarda los datos primero";
+"Rename Icon" = "Cambiar Nombre";
+"Renaming" = "Cambiando Nombre";
+"Restore Data Successfully!" = "¡Datos Restaurados!";
+"Restore Data..." = "Restaurar Datos...";
+"Restoring..." = "Restaurando...";
+"Select backup time to restore" = "Selecciona la fecha de guardado de los datos para restaurar";
+"Tip" = "Aviso";
+"Yes" = "Si";
+"Conflicts with Velox's Swipe. but you can use Swipe Up for Velox and Swipe Down for IconTool, just for example." = "Tiene conflictos con las acciones de deslizar de Velox. Pero puede deslizar hacia arriba para Velox y deslizar hacia abajo para IconTool, sólo por ejemplo.";
+"Mark New" = "Marcar Como Nuevo";
+"Set Custom Badge" = "Poner Globo Personalizado";
+"Reboot&Respring" = "(★El sistema se reiniciara automaticamente★)";
+"rebooting..." = "Reiniciando...";
+"SMS Backup" = "Guardar SMS";
+"SMS Restore..." = "Restaurando SMS...";
+"Error" = "Error De Licensia";
+"License" = "Porfavor compra IconTool en Cydia, Si ya lo compro, aga click en Buscar";
+"Fetch" = "Buscar";
+"Fetching..." = "Buscando...";
+"Notes Backup" = "Guardar Notas";
+"Notes Restore..." = "Restaurando Notas...";
+"Contacts Backup" = "Guardar Contactos";
+"Contacts Restore..." = "Restaurando Contactos...";
+"CallRecord Backup" = "Guardar Record de Llamadas";
+"CallRecord Restore..." = "Restaurando Record de Llamadas...";
+"Activate via Swipe Up" = "Deslizar Arriba";
+"Activate via Swipe Down" = "Deslizar Abajo";
+"Toggle Swipe Action on/off Requires Respring" = "Los cambios en los ajustes toman efecto enseguida.";
+"Activate via Swipe Left" = "Deslizar Izquierda (Sólo iOS7) ";
+"Activate via Swipe Right" = "Deslizar Derecha (Sólo iOS7)";
+"Disable Spotlight" = "Desactivar Spotlight iOS7";
+"If not Disable Spotlight on iOS7, Swipe Down action won't work." = "Si no desactiva el Spotlight en iOS7, la acción Deslizar Abajo no funcionara.";
+"Rebuild All Icon" = "Reconstruir Todo Icono";
+"StatusBar Fix" = "Fix de StatusBar";
+"The System will respring automatically, Are you sure?" = "El sistema hará un respring automático, Estas seguro?";
+"All this app's data will be removed, Are you sure?" = "Toda esta data de la app será removida, Estas seguro?";
+"Remove All User Data" = "Remover Data de Usuario";
+"Warning" = "Aviso";
+"Removing Data..." = "Removiendo Data...";
+"Show App Cache Size" = "Mostrar Tamaño de Cache de la App";
+"File System Browser" = "File System Browser";
+"Current Browser" = "Current Browser";
+"Open in Filza" = "Open in Filza";
+"Please install Filza File Manager from cydia first!" = "Please install Filza File Manager from cydia first!";
+"Disable gesture in Dock" = "Disable gesture in Dock";

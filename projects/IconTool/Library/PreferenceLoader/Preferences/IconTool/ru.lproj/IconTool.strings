@@ -1,0 +1,72 @@
+/* 
+  IconTool.strings
+  IconTool
+
+  Created by shenyue on 13-4-22.
+
+*/
+
+"Activate via Double Tap" = "Двойное касание";
+"Tip" = "Icon Tool";
+"Okay" = "Ок";
+"Renaming" = "Переименование";
+"Cancel" = "Отмена";
+"Apply" = "Применить";
+"Restoring..." = "Восстановление...";
+"Restore Data Successfully!" = "Данные восстановлены!";
+"Confirm" = "Подтвердите";
+"Delete" = "Удалить";
+"NO" = "НЕТ";
+"Yes" = "Да";
+"Please install iFile from cydia first!" = "Установите iFile из Cydia!";
+"Clear Caches..." = "Очистка кэша...";
+"Clear Caches Successfully!" = "Кэш очищен!";
+"Backuping..." = "Сохранение...";
+"Backup Data Successfully!" = "Данные сохранены!";
+"Open in iFile" = "Открыть в iFile";
+"Rename Icon" = "Переименовать";
+"Clear Badge" = "Убрать бэйдж";
+"Launch" = "Запустить";
+"Clear Caches" = "Очистить кэш ";
+"Backup Data" = "Сохранить Данные";
+"Restore Data..." = "Восстановить Данные";
+"Cancel Downloading" = "Отменить загрузку";
+"Please use backup first!" = "Cначала сохраните данные! \n Локализация от iLEX :)";
+"Select backup time to restore" = "Выберите архив для восстановления";
+"Conflicts with Velox's Swipe. but you can use Swipe Up for Velox and Swipe Down for IconTool, just for example." = "Может конфликтовать с Velox. Конфликта можно избежать, если правильно настроить IconTool и Velox.";
+"Mark New" = "Создать метку";
+"Set Custom Badge" = "Создать бэйдж";
+"Reboot&Respring" = "(★Автоматическая перезагрузка★)";
+"rebooting..." = "Перезагрузка...";
+"SMS Backup" = "Сохранить SMS";
+"SMS Restore..." = "Восстановить SMS";
+"Error" = "Ошибка лицензии";
+"License" = "Пожалуйста купите IconTool в Cydia, если Вы уже купили, нажмите Проверка";
+"Fetch" = "Проверка";
+"Fetching..." = "Проверяю...";
+"Notes Backup" = "Сохранить Заметки";
+"Notes Restore..." = "Восстановить Заметки";
+"Contacts Backup" = "Сохранить Контакты";
+"Contacts Restore..." = "Восстановить контакты";
+"CallRecord Backup" = "Сохранить Звонки";
+"CallRecord Restore..." = "Восстановить Звонки";
+"Activate via Swipe Up" = "Свайп вверх";
+"Activate via Swipe Down" = "Свайп вниз";
+"Toggle Swipe Action on/off Requires Respring" = "Измененные настройки вступают в силу сразу.";
+"Activate via Swipe Left" = "Свайп влево";
+"Activate via Swipe Right" = "Свайп вправо";
+"Disable Spotlight" = "Отключить поиск";
+"If not Disable Spotlight on iOS7, Swipe Down action won't work." = "Если не отключить поиск iOS7, свайп вниз не будет работать.";
+"Rebuild All Icon" = "Восстановить иконки";
+"StatusBar Fix" = "Восстановить статус бар";
+"The System will respring automatically, Are you sure?" = "Будет сделан респринг, Вы согласны?";
+"All this app's data will be removed, Are you sure?" = "Все данные этого приложения будут удалены, Вы уверены?";
+"Remove All User Data" = "Удалить данные";
+"Warning" = "Внимание";
+"Removing Data..." = "Удаление данных...";
+"Show App Cache Size" = "Показывать размер кэша";
+"File System Browser" = "Файловый менеджер";
+"Current Browser" = "Выбран";
+"Open in Filza" = "Открыть в Filza";
+"Please install Filza File Manager from cydia first!" = "Установите сначала Filza File Manager из Cydia!";
+"Disable gesture in Dock" = "Disable gesture in Dock";
