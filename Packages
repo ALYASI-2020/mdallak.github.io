@@ -1,15 +1,15 @@
-Package: org.ioshack.icontool
+Package: com.mdallak.icontool
 Version: 1.9-6
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 1302
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2), com.ericasadun.utilities
-Conflicts: com.mdallak.iconrenamer
-Filename: ./debs/org.ioshack.icontool_1.9-6_iphoneos-arm.deb
-Size: 385248
-MD5sum: 93395a4d9ad000ea3b74a73da92f2a22
-SHA1: 188ceda1364dfc7c2ed3b9605da5980766ba419d
-SHA256: 5767dd7285169c19ef42f58d84a7c3e38d2ca9cfc5d06f1aa71ff8b582eee3f8
+Conflicts: com.rpetrich.iconrenamer
+Filename: ./debs/com.mdallak.icontool_1.9-6_iphoneos-arm.deb
+Size: 385854
+MD5sum: 3a140d94a0dddcec53ae134d7fb6dc75
+SHA1: f6c364a79b115952a44ef0dd0aa1d298710bbded
+SHA256: 7500e0c02081aa342e34117543fe531c0a7add4460438bfd8528be7644279fe2
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icontoolDp
 Description: app tools menu from jiggle mode
