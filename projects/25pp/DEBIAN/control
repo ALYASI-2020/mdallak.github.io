@@ -1,0 +1,13 @@
+Author: Jun - M Dallak
+Maintainer: Jun - M Dallak
+Name: 25pp
+Package: com.teiron.pphelperns
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<< 10.3), net.angelxwind.appsyncunified
+Section: Utilities
+Version: 3.7.3
+Architecture: iphoneos-arm
+Description: iOS 6.0 - 10.2
+Depiction: http://apt.25pp.com/htm/25ppns.htm
+Homepage: http://apt.25pp.com/htm/25ppns.htm
+dev: Jun - M Dallak
+Icon: file:///Applications/PPHelperNS.app/AppIcon57x57@2x.png

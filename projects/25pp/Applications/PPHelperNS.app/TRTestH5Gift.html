@@ -1,0 +1,82 @@
+<html>
+    <head>
+        <style type='text/css'>
+            html { font-family:Helvetica; color:#222; }
+            h1 { color:steelblue; font-size:24px; margin-top:24px; }
+            button { margin:0 3px 10px; font-size:12px; }
+            .logLine { border-bottom:1px solid #ccc; padding:4px 2px; font-family:courier; font-size:11px; }
+            body {
+                background-color: yellow;
+            }
+        </style>
+        <script>
+
+            var gift0 = new Object();
+            gift0.pid = 1003;  //礼包的ID
+            gift0.catId = 1; //类型ID值
+            gift0.gameId = 3226; //游戏ID值
+            gift0.gameName = '太极熊猫'; //礼包游戏的名字
+            gift0.gameBundleIds = new Array('com.snailgames.taijiPP'); //game buid
+            gift0.packageName = '3.0专属礼包'; //礼包的名字
+            gift0.subTitle = '论坛可跳转礼包链接'; //礼包的二级标题
+            gift0.content = '1'; //礼包内容
+            gift0.iconUrl = ''; //图标
+            gift0.publisTime = 1432783779; //礼包发布时间
+            gift0.expireTime = 0; //礼包的过期时间
+            gift0.packageCount = 11; //礼包总数
+            gift0.packageSurplus = 1; //礼包剩下数量
+
+            var gift1 = new Object();
+            gift1.pid = 997;  //礼包的ID
+            gift1.catId = 1; //类型ID值
+            gift1.gameId = 3085; //游戏ID值
+            gift1.gameName = '神域之光'; //礼包游戏的名字
+            gift1.gameBundleIds = new Array('com.yeahworld.theskylight.pp'); //game buid
+            gift1.packageName = '多用户领取渠道礼包（淘号）'; //礼包的名字
+            gift1.subTitle = '13区'; //礼包的二级标题
+            gift1.content = '多用户领取渠道礼包（淘号）'; //礼包内容
+            gift1.iconUrl = ''; //图标
+            gift1.publisTime = 1432633860; //礼包发布时间
+            gift1.expireTime = 0; //礼包的过期时间
+            gift1.packageCount = 40; //礼包总数
+            gift1.packageSurplus = 27; //礼包剩下数量
+
+            function initH5Gift(callback) {
+                if (window.TRH5Obj) {
+                    callback(TRH5Obj);
+                } else {
+                    document.addEventListener('TRH5Init', function() {
+                        callback(TRH5Gift);
+                    }, false);
+                }
+            }
+
+            initH5Gift(function(){
+                console.log('初始化H5礼包页面成功');
+            });
+
+
+            function h5GetGift(){
+                TRH5Obj.getGiftInfo(gift0,function(response){
+                    alert('result:'+JSON.stringify(response));
+                });
+            }
+
+            function h5ShowGiftDetail(){
+                TRH5Obj.showGiftDetail(gift1);
+            }
+        </script>
+    </head>
+    <body>
+        <h1>H5Gift Demo</h1>
+        <div>
+            <button onclick="h5GetGift()">获取礼包</button>
+        </div>
+        <div>
+            <button onclick="h5ShowGiftDetail()">显示详情</button>
+        </div>
+    </body>
+</html>
+        
+
+

@@ -1,0 +1,303 @@
+<html>
+<head>
+    <style type='text/css'>
+        html { font-family:Helvetica; color:#222; }
+        h1 { color:steelblue; font-size:24px; margin-top:24px; }
+        button { margin:0 3px 10px; font-size:12px; }
+        .logLine { border-bottom:1px solid #ccc; padding:4px 2px; font-family:courier; font-size:11px; }
+        body {
+            background-color: yellow;
+        }
+        </style>
+    <script>
+        
+        var appInfo = new Object();
+        appInfo.itemId = 565380;
+        appInfo.resourceType = 2;
+        appInfo.name = '节奏大师';
+        appInfo.downloadUrl = 'http://r11.25pp.com/soft/2015/06/18/20150618_45159_134616395915.ipa';
+        appInfo.downloadUrlCRC = 1056374648;
+        appInfo.bundleID = "com.tencent.game.rhythmmaster";
+        appInfo.size = "41.85MB";
+        appInfo.version = "2.5.3.1";
+        appInfo.shortVersion = "2.5.3";
+        appInfo.imageUrl = "http://img2.25pp.com/uploadfile/youxi/images/2015/0618/20150618034817399_144x144.jpg";
+
+        var appInfo2 = new Object();
+        appInfo2.itemId = 1233113;
+        appInfo2.resourceType = 1;
+        appInfo2.name = '不背单词-真实语境学单词';
+        appInfo2.downloadUrl = 'http://r11.25pp.com/soft/2015/05/16/20150516_19279_132154574021.ipa';
+        appInfo2.downloadUrlCRC = 2248515827;
+        appInfo2.bundleID = "cn.com.langeasy.LangEasyLexis";
+        appInfo2.size = "38.78MB";
+        appInfo2.version = "1802";
+        appInfo2.shortVersion = "1.8";
+        appInfo2.imageUrl = "http://img.25pp.com/uploadfile/soft/images/2015/0516/20150516100053788_112x112.jpg";
+
+        var updateAppInfo = new Object();
+        updateAppInfo.itemId = 635947;
+        updateAppInfo.resourceType = 1;
+        updateAppInfo.name = 'QQ音乐播放器';
+        updateAppInfo.downloadUrl = 'http://r11.25pp.com/soft/2015/06/18/20150618_48398_134614564145.ipa';
+        updateAppInfo.downloadUrlCRC = 1982953532;
+        updateAppInfo.bundleID = "com.tencent.QQMusic";
+        updateAppInfo.size = "39.69MB";
+        updateAppInfo.version = "19886";
+        updateAppInfo.shortVersion = "5.2.2";
+        updateAppInfo.imageUrl = "http://img.25pp.com/uploadfile/soft/images/2015/0618/20150618031851440_216x216.jpg";
+
+        var topicInfo = new Object();
+        topicInfo.itemId = 92;
+        topicInfo.topicType = 0;
+        topicInfo.name = 'PP助手推荐装机必备应用';
+        topicInfo.imageUrl = 'http://img2.25pp.com/uploadfile/special/imgrectangular/2015/0130/20150130045833856_640x256.jpg';
+        topicInfo.bannerUrl = 'http://img2.25pp.com/uploadfile/special/imgrectangular/2015/0130/20150130045833856_640x256.jpg';
+        topicInfo.desc = 'PP助手精心挑选了一些常用工具集合，本专辑也会不断更新最好、最全、最新的工具，也请及时关注！';
+        topicInfo.updateTime = 1431315232;
+        topicInfo.resCount = 57;
+
+       
+
+        function initHtml5Topic(callback) {
+            if (window.TRH5Obj) {
+                callback(TRH5Obj);
+            } else {
+                document.addEventListener('TRH5Init', function() {
+                    callback(TRH5Obj);
+                }, false);
+            }
+        }
+
+        initHtml5Topic(function(aTRH5Obj){
+            console.log('初始化TRH5Obj');
+            TRH5Obj.setAppUpdateStatusHandler(appUpdateStatusHandler);
+            TRH5Obj.setAppOpenStatusHandler(appOpenStatusHandler);
+            TRH5Obj.setAppStatusHandler(appStatusHandler);
+            TRH5Obj.setAppDownloadStatusHandler(appDownloadStatusHandler);
+            TRH5Obj.setAppInstallStatusHandler(appInstallStatusHandler);
+            TRH5Obj.setAppDownloadProgressHandler(appDownloadProgressHandler);
+            TRH5Obj.setAppInstallProgressHandler(appInstallProgressHandler);
+
+            TRH5Obj.observeAppAllStatusAndProgress(appInfo);
+            TRH5Obj.observeAppAllStatusAndProgress(updateAppInfo);
+        });
+
+        function appUpdateStatusHandler(response){
+            console.log('更新状态回调'+JSON.stringify(response));
+            var itemId = response.itemId;
+            var isUpdate = response.isUpdate;
+            var isWhiteApp = response.isWhiteApp;
+            if(itemId == 565380){
+                if(isUpdate && !isWhiteApp){
+                    document.getElementById('appLocalStatus0').innerText = '本地应用状态:更新';
+                }else{
+                    document.getElementById('appLocalStatus0').innerText = '本地应用状态:不需要更新';
+                }
+            }else{
+                if(isUpdate && !isWhiteApp){
+                    document.getElementById('appLocalStatus1').innerText = '本地应用状态:更新';
+                }else{
+                    document.getElementById('appLocalStatus1').innerText = '本地应用状态:不需要更新';
+                }
+            }
+        }
+
+        function appOpenStatusHandler(response){
+            console.log('打开状态回调'+JSON.stringify(response));
+            var name = response.name;
+            var isInstall = response.isInstall;
+            if(name == '节奏大师'){
+                if(isInstall){
+                    document.getElementById('appLocalStatus0').innerText = '本地应用状态:打开';
+                }else{
+                    document.getElementById('appLocalStatus0').innerText = '本地应用状态:没安装';
+                }
+            }else{
+                if(isInstall){
+                    document.getElementById('appLocalStatus1').innerText = '本地应用状态:打开';
+                }else{
+                    document.getElementById('appLocalStatus1').innerText = '本地应用状态:没安装';
+                }
+            }
+        }
+
+        function appStatusHandler(response){
+            console.log('任务状态回调'+JSON.stringify(response));
+            var itemId = response.itemId;
+//            var taskType = response.
+        }
+
+        function appDownloadStatusHandler(response){
+            console.log('下载状态回调'+JSON.stringify(response));
+            var itemId = response.itemId;
+            var isDownloadFinish = response.isDownloadFinish;
+            if(itemId == 565380){
+                if(isDownloadFinish){
+                    document.getElementById('appTaskStatus0').innerText = '下载状态:完成';
+                }else{
+                    document.getElementById('appTaskStatus0').innerText = '下载状态:没完成';
+                }
+            }else{
+                if(isDownloadFinish){
+                    document.getElementById('appTaskStatus1').innerText = '下载状态:完成';
+                }else{
+                    document.getElementById('appTaskStatus1').innerText = '下载状态:没完成';
+                }
+            }
+        }
+
+        function appInstallStatusHandler(response){
+            console.log('安装状态回调'+JSON.stringify(response));
+            var itemId = response.itemId;
+            var isInstall = response.isInstall;
+            if(itemId == 565380){
+                if(isInstall){
+                    document.getElementById('appTaskStatus0').innerText = '安装状态:完成';
+                }else{
+                    document.getElementById('appTaskStatus0').innerText = '安装状态:没完成';
+                }
+            }else{
+                if(isInstall){
+                    document.getElementById('appTaskStatus1').innerText = '安装状态:完成';
+                }else{
+                    document.getElementById('appTaskStatus1').innerText = '安装状态:没完成';
+                }
+            }
+        }
+
+        function appDownloadProgressHandler(response){
+            console.log('下载进度回调'+JSON.stringify(response));
+            var itemId = response.itemId;
+            var downloadProgress = response.downloadProgress;
+            if(itemId == 565380){
+                    document.getElementById('progressLabel0').innerText = '下载进度:'+downloadProgress;
+            }else{
+                    document.getElementById('progressLabel1').innerText = '下载状态:'+downloadProgress;
+            }
+        }
+
+        function appInstallProgressHandler(response) {
+            console.log('状态回掉中:' + JSON.stringify(response));
+            var itemId = response.itemId;
+            var installProgress = response.installProgress;
+            if(itemId == 565380){
+                document.getElementById('progressLabel0').innerText = '安装进度:'+installProgress;
+            }else{
+                document.getElementById('progressLabel1').innerText = '安装状态:'+installProgress;
+            }
+        }
+        
+        function getInstalled(){
+            TRH5Obj.getInstalledApp(function (data){
+                console.log(data);
+                console.log('->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>');
+             var userAgent =  navigator.PP-User-Agent;
+             console.log('userAgent->'+JSON.stringify(userAgent));
+            });
+        }
+        function loginHtml(){
+            TRH5Obj.login(function (data){
+                console.log('login result:'+JSON.stringify(data));
+            });
+        }
+
+        function downloadAppHtml(){
+            TRH5Obj.downloadApp(appInfo,function(response){
+                console.log('添加下载结果->'+JSON.stringify(response));
+            });
+        }
+
+        function pauseDownloadApp(){
+            TRH5Obj.pauseDownloadApp(appInfo,function(response){
+                console.log('暂停下载结果->'+JSON.stringify(response));
+            });
+        }
+    
+        function startDownloadApp(){
+            TRH5Obj.startDownloadApp(appInfo,function(response){
+                console.log('开始下载结果->'+JSON.stringify(response));
+            });
+        }
+
+        function downloadUpdateApp(){
+            TRH5Obj.downloadUpdateApp(updateAppInfo,function(response){
+                console.log('更新下载结果->'+JSON.stringify(response));
+            });
+        }
+
+        function startDownloadUpdateApp(){
+            TRH5Obj.startDownloadUpdateApp(updateAppInfo,function(response){
+                console.log('开始更新下载结果->'+JSON.stringify(response));
+            });
+        }
+
+        function removeDownloadApp(){
+            TRH5Obj.removeDownloadApp(appInfo,function(response){
+                console.log('移除下载结果->'+JSON.stringify(response));
+            });
+        }
+
+        function installApp(){
+            TRH5Obj.installApp(appInfo);
+        }
+
+        function openApp(){
+            TRH5Obj.openApp(appInfo2);
+        }
+
+        function showDetail(){
+            TRH5Obj.showDetail(appInfo2);
+        }
+
+        function showTopic(){
+            TRH5Obj.showTopic(topicInfo);
+        }
+    </script>
+</head>
+<body>
+    <h1>WebViewJavascriptBridge Demo</h1>
+    <br>
+    <button onclick="getInstalled()">获取本地app列表</button>
+    <br>
+    <button onclick="loginHtml()">登陆</button>
+    <br>
+    <br size="10">
+    <label>节奏大师</label>
+    <br>
+    <label id="appLocalStatus0">应用本地状态:未安装</label>
+    <br>
+    <label id="appTaskStatus0">状态</label>
+    <br>
+    <label id="progressLabel0">进度</label>
+    <br>
+    <button onclick="downloadAppHtml()">下载</button>
+    <br>
+    <button onclick="pauseDownloadApp()">暂停</button>
+    <br>
+    <button onclick="startDownloadApp()">开始下载</button>
+    <br>
+    <button onclick="installApp()">安装</button>
+    <br>
+    <br size="10">
+    <label >测试更新</label>
+    <br>
+    <label id="appLocalStatus1">应用更新状态:</label>
+    <br>
+    <label id="appTaskStatus1">状态</label>
+    <br>
+    <label id="progressLabel1">进度</label>
+    <br>
+    <button onclick="downloadUpdateApp()">更新</button>
+    <br>
+    <button onclick="startDownloadUpdateApp()">重新开始下载更新</button>
+    <br>
+    <button onclick="removeDownloadApp()">取消下载</button>
+    <br>
+    <button onclick="openApp()">打开</button>
+    <br>
+    <button onclick="showDetail()">打开详情</button>
+    <br>
+    <button onclick="showTopic()">打开专题</button>
+</body>
+</html>

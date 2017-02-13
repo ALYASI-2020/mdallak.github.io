@@ -1,3 +1,22 @@
+Package: com.teiron.pphelperns
+Version: 3.7.3
+Architecture: iphoneos-arm
+Maintainer: Jun - M Dallak
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<< 10.3), net.angelxwind.appsyncunified
+Filename: ./debs/com.teiron.pphelperns_3.7.3_iphoneos-arm.deb
+Size: 15270382
+MD5sum: 8ca02fe0f31ec72b9da5ad646ba4f901
+SHA1: 9d9b64f1a8e584e738ea935e4a41bebad372daa5
+SHA256: 4752557ea6e4207fa5fbc69623bba99eb44514331eec5053c1786070a526426b
+Section: Utilities
+Homepage: http://apt.25pp.com/htm/25ppns.htm
+Description: iOS 6.0 - 10.2
+Author: Jun - M Dallak
+Depiction: http://apt.25pp.com/htm/25ppns.htm
+Dev: Jun - M Dallak
+Icon: file:///Applications/PPHelperNS.app/AppIcon57x57@2x.png
+Name: 25pp
+
 Package: org.ioshack.icontool
 Version: 1.9-7
 Architecture: iphoneos-arm
@@ -6,10 +25,10 @@ Installed-Size: 1302
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2), com.ericasadun.utilities
 Conflicts: com.rpetrich.iconrenamer
 Filename: ./debs/org.ioshack.icontool_1.9-7_iphoneos-arm.deb
-Size: 386480
-MD5sum: 1d35c69d1665fc87af57f1de2ad2fd06
-SHA1: ddd5281de309e2332e627570ed36f3e4390de5b7
-SHA256: 297ec225601d5f7fc44fdffc4ab7313ea990a856ffac1c4a4ffa196bc79e8ed9
+Size: 385010
+MD5sum: 1b92cb67bda7afd7dfb36f8c77dfedb3
+SHA1: 41eb0bce4f0389eca054720b8481dd304d88bb24
+SHA256: a724f7be911db1c47662002154d52535fc3a5627219a16cfe34c66eb5cedce89
 Section: Tweaks
 Description: app tools menu from jiggle mode
 Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
