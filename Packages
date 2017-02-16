@@ -1,13 +1,31 @@
+Package: com.mdallak.CyFree
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: M Dallak
+Depends: cydia, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate
+Filename: ./debs/com.mdallak.cyfree_1.0_iphoneos-arm.deb
+Size: 1393126
+MD5sum: 3dac3d3caa9785d39a50fde7049d2e83
+SHA1: 04748f4442131ffc6cf90c883ccdb36a82c5da9e
+SHA256: a04f05c223e50beef48250d36850d9f4bd293211c869b1b4d13886920ef5c517
+Section: Tweaks
+Homepage: http://twitter.com/M_Dallak
+Description: Cydia Free
+Author: M Dallak <m_dallak@outlook.com>
+Depiction: http://julio.xarold.com/files-deb/111.html
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyFree
+
 Package: com.teiron.pphelperns
 Version: 3.7.3
 Architecture: iphoneos-arm
 Maintainer: Jun - M Dallak
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<< 10.3), net.angelxwind.appsyncunified
 Filename: ./debs/com.teiron.pphelperns_3.7.3_iphoneos-arm.deb
-Size: 15270382
-MD5sum: 8ca02fe0f31ec72b9da5ad646ba4f901
-SHA1: 9d9b64f1a8e584e738ea935e4a41bebad372daa5
-SHA256: 4752557ea6e4207fa5fbc69623bba99eb44514331eec5053c1786070a526426b
+Size: 1444
+MD5sum: 840afd69c756385b643615b8d37f9857
+SHA1: dcf836b2d681f99a5378888daf499ea19676acdb
+SHA256: eb24081c76e5dec8951ee33038d8c5913006b67aa992fa96899407a3789e12f6
 Section: Utilities
 Homepage: http://apt.25pp.com/htm/25ppns.htm
 Description: iOS 6.0 - 10.2
@@ -25,10 +43,10 @@ Installed-Size: 1302
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2), com.ericasadun.utilities
 Conflicts: com.rpetrich.iconrenamer
 Filename: ./debs/org.ioshack.icontool_1.9-7_iphoneos-arm.deb
-Size: 385010
-MD5sum: 1b92cb67bda7afd7dfb36f8c77dfedb3
-SHA1: 41eb0bce4f0389eca054720b8481dd304d88bb24
-SHA256: a724f7be911db1c47662002154d52535fc3a5627219a16cfe34c66eb5cedce89
+Size: 385008
+MD5sum: f47f32becc833fd2620317dc7d438440
+SHA1: 9af4a9b0802f8a554d1b21b796f57827928e0c63
+SHA256: 6e7b3ca8f91aeb2c260ae812945864c443b76c6d2991665a24b5990d983f3660
 Section: Tweaks
 Description: app tools menu from jiggle mode
 Tag: cydia::commercial, purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10
