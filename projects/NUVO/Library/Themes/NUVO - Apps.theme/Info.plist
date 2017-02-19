@@ -2,43 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>PackageName</key>
-	<string>NUVO</string>
-	
-	<key>CalendarIconDateSettings</key>  
-	<dict>
-		<key>FontSize</key>
-		<integer>30</integer>
-		<key>ShadowBlurRadius</key>
-		<integer>1</integer>
-		<key>ShadowColor</key>
-		<string>#666666</string>
-		<key>TextColor</key>
-		<string>#383838</string>
-		<key>TextYoffset</key>
-		<integer>7</integer>
-	</dict>
-	<key>CalendarIconDaySettings</key> 
-	<dict>
-		<key>FontSize</key>
-		<integer>9</integer>
-		<key>ShadowBlurRadius</key>
-		<integer>1</integer>
-		<key>ShadowColor</key>
-		<string>#666666</string>
-		<key>TextColor</key>
-		<string>#FFFFFF</string>
-		<key>TextYoffset</key>
-		<integer>-1</integer>
-	</dict>
-	<key>IB-MaskIcons</key> 
+	<key>CalendarIconDateStyle</key>
+	<string>font-family: Helvetica; font-size: 30px;color: #ee2235; text-shadow: 0px 0px 0px #ee2235; position: absolute; top: 3px;left: 0px;</string>
+	<key>CalendarIconDayStyle</key>
+	<string>padding: 0px 0px 0px 0px; color:#f2625b; font-size: 0px;
+	text-shadow: #f2625b 0px 0px 0px</string>
+	<key>IB-MaskIcons</key>
 	<true/>
 </dict>
 </plist>
-
-
-
-
-
-
-
