@@ -1,0 +1,12 @@
+Package: com.macciti.nuvo
+Name: NUVO
+Version: 2.0
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone
+Description: A refreshing take on iOS
+Maintainer: iC <apt@macciti.com>
+Author: ikon <desk@taptounlock.me>
+Sponsor: MacCiti <http://www.macciti.com/cydia/pages/sponsor.php>
+Section: Themes (SpringBoard)
+Depiction: http://www.macciti.com/pages/nuvo/index.php
+tag: cydia::commercial
