@@ -2,43 +2,41 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>PackageName</key>
-	<string>NUVO</string>
-	
-	<key>CalendarIconDateSettings</key>  
+	<key>CalendarIconDateSettings</key>
+	<dict>
+		<key>FontName</key>
+		<string>Avenir-Light</string>
+		<key>FontSize</key>
+		<real>30</real>
+		<key>TextColor</key>
+		<string>#e51c35</string>
+		<key>TextYoffset</key>
+		<real>-0.5</real>
+	</dict>
+	<key>CalendarIconDateStyle</key>
+	<string>
+		font-size: 30px;
+		padding-top: 0px;
+		color: #e51c35;
+	</string>
+	<key>CalendarIconDaySettings</key>
 	<dict>
 		<key>FontSize</key>
-		<integer>30</integer>
-		<key>ShadowBlurRadius</key>
-		<integer>1</integer>
-		<key>ShadowColor</key>
-		<string>#666666</string>
-		<key>TextColor</key>
-		<string>#383838</string>
-		<key>TextYoffset</key>
-		<integer>7</integer>
+		<real>0.0</real>
 	</dict>
-	<key>CalendarIconDaySettings</key> 
-	<dict>
-		<key>FontSize</key>
-		<integer>9</integer>
-		<key>ShadowBlurRadius</key>
-		<integer>1</integer>
-		<key>ShadowColor</key>
-		<string>#666666</string>
-		<key>TextColor</key>
-		<string>#FFFFFF</string>
-		<key>TextYoffset</key>
-		<integer>-1</integer>
-	</dict>
-	<key>IB-MaskIcons</key> 
+	<key>CalendarIconDayStyle</key>
+	<string>       
+                position:absolute;
+                width: auto;
+					 font-family: Avenir-Light; 
+                height: auto;
+                padding-top: 0px;
+                font-size: 0px;
+                font-weight:100;
+                text-align: center;
+                color: #5E5E5E;
+        </string>
+	<key>IB-MaskIcons</key>
 	<true/>
 </dict>
 </plist>
-
-
-
-
-
-
-
