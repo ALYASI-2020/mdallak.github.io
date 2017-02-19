@@ -1,0 +1,6 @@
+{
+	CFBundleDisplayName = "CyDown";
+	CFBundleExecutable = "CyDownSwitch";
+	CFBundleIdentifier = "com.julioverne.cydownswitch";
+	NSPrincipalClass = "CyDownSwitchSwitch";
+}
