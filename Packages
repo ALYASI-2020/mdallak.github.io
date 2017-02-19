@@ -5,9 +5,9 @@ Maintainer: Julio
 Depends: cydia, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate
 Filename: ./debs/com.julioverne.cydown_6.7.0_iphoneos-arm.deb
 Size: 1693652
-MD5sum: 3887ae4f86791d2101d70a031b132354
-SHA1: a3fb82fcbbfffad14a40de2b0a9daf3d9f70c699
-SHA256: 53314cf0a606451d8a6fbf11473aca34f68d817c5a5825ca6d1d61d98bf40330
+MD5sum: 727ca4d9b1fa03658b2f76479b3896b2
+SHA1: 82a5d46fb7710d6d3b5c70daf800c3df1c4e4345
+SHA256: 1851eb301b7c28dcb2ac6a74cdff9f991f4e2884887fa6149bb088c905d48bc4
 Section: Tweaks
 Homepage: http://twitter.com/ijulioverne
 Description: Cydia Download Manager & Extra Features!
@@ -22,10 +22,10 @@ Architecture: iphoneos-arm
 Maintainer: iC <apt@macciti.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.macciti.nuvo_2.0b1_iphoneos-arm.deb
-Size: 4214950
-MD5sum: 81909681a689db91a405e320ca8cd48f
-SHA1: 8b705c64de149091322f73f27c6aee49ce6f91cf
-SHA256: 99404b3df73921574f74880890f56e5b49849b8cb8efef8eb2d9919c45e41cc8
+Size: 4233234
+MD5sum: 0784c709f311defe23f6d1e9cd651d85
+SHA1: ed7f35d84d05027975bb3880e29ff69253e78988
+SHA256: 40cd4985a28e168af6d276d78d5e84648ba304ef9f6cdb2fcf41643deddc0646
 Section: Themes (SpringBoard)
 Description: A refreshing take on iOS
 Tag: cydia::commercial
