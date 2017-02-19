@@ -1,13 +1,13 @@
 Package: com.macciti.nuvo
-Version: 2.0
+Version: 2.0b1
 Architecture: iphoneos-arm
 Maintainer: iC <apt@macciti.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.macciti.nuvo_2.0_iphoneos-arm.deb
-Size: 3083678
-MD5sum: 7115b372a01d320af443b6d6b790dd5a
-SHA1: 16557a5bf1e6db4fbef68fff7aac02509134577f
-SHA256: 8142bd866a4c95d1342dd4497a279c737548ce6173888697a4d93e549d4e5f71
+Filename: ./debs/com.macciti.nuvo_2.0b1_iphoneos-arm.deb
+Size: 4214950
+MD5sum: 1198156c132b5fc47222b624d6745dac
+SHA1: 6d6ff85c857fd2fa2faebaa95b24a426232bb6ba
+SHA256: 03f2676c0451d898297a3a06b397d2a78523e52ed53be8840c01f8eadf385eba
 Section: Themes (SpringBoard)
 Description: A refreshing take on iOS
 Tag: cydia::commercial

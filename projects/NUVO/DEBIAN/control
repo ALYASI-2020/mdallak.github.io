@@ -1,6 +1,6 @@
 Package: com.macciti.nuvo
 Name: NUVO
-Version: 2.0
+Version: 2.0b1
 Architecture: iphoneos-arm
 Depends: com.anemonetheming.anemone
 Description: A refreshing take on iOS
