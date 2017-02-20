@@ -1,18 +1,17 @@
-Package: com.julioverne.cydown
-Version: 6.7.0
+Package: com.bytafont.bytafonttm2
+Version: 1.2.0
 Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: cydia, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate
-Filename: ./debs/com.julioverne.cydown_6.7.0_iphoneos-arm.deb
-Size: 1693652
-MD5sum: 201fff5c0bfb47b5e4063c98a869cbc8
-SHA1: 43d6b7efd86cb4ece2abfeccb9333fe3f2aef5bb
-SHA256: 70e92d6d91855db297dee742144cd18bf9e8658e6260776f6d28d407b5f03394
+Maintainer: BytaFont
+Depends: mobilesubstrate
+Filename: ./debs/com.bytafont.bytafonttm2_1.2.0_iphoneos-arm.deb
+Size: 27492
+MD5sum: bde48fee121652fbffd111f04370b418
+SHA1: be2e1222ff0521109f06b8af20c9820df3e59812
+SHA256: 1041595cac6cc4dd3fb4695fb3564d574b6304639de7c6a0c8befefa2df98db8
 Section: Tweaks
-Homepage: http://twitter.com/ijulioverne
-Description: Cydia Download Manager & Extra Features!
-Author: julioverne <julioverne@me.com>
-Depiction: http://julio.xarold.com/files-deb/cydown.html
-Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
-Name: CyDown
+Homepage: http://twitter.com/mdallak
+Description: Byta Font Tweak Mode 10.2!
+Author: BytaFont.com <info@bytafont.com>
+Depiction: http://mdallak.github.io
+Name: BytaFont Tweak Mode
 
