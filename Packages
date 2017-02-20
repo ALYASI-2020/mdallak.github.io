@@ -5,9 +5,9 @@ Maintainer: Julio
 Depends: cydia, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate
 Filename: ./debs/com.julioverne.cydown_6.7.0_iphoneos-arm.deb
 Size: 1693652
-MD5sum: 64d699647b4f3dba2211b0e4239ed5fb
-SHA1: 7db0eddc58f970126fa852ad6f558dd1e0e08aea
-SHA256: 898df8e9318ced32680b6fc640839c93aea8a9c660e527fdbc75f3c4a2eb4f1c
+MD5sum: 201fff5c0bfb47b5e4063c98a869cbc8
+SHA1: 43d6b7efd86cb4ece2abfeccb9333fe3f2aef5bb
+SHA256: 70e92d6d91855db297dee742144cd18bf9e8658e6260776f6d28d407b5f03394
 Section: Tweaks
 Homepage: http://twitter.com/ijulioverne
 Description: Cydia Download Manager & Extra Features!
@@ -15,22 +15,4 @@ Author: julioverne <julioverne@me.com>
 Depiction: http://julio.xarold.com/files-deb/cydown.html
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
 Name: CyDown
-
-Package: com.macciti.nuvo
-Version: 2.0b1
-Architecture: iphoneos-arm
-Maintainer: iC <apt@macciti.com>
-Depends: com.anemonetheming.anemone
-Filename: ./debs/com.macciti.nuvo_2.0b1_iphoneos-arm.deb
-Size: 4234288
-MD5sum: 57d8ad7684e74edfc6b502d1e8b15bf9
-SHA1: 476052e93930a2eb24627232c67179e620794256
-SHA256: 233e144816b242a24e7e69590e8fa8d11b1fda60a8d4fcbd3129e11058d05a85
-Section: Themes (SpringBoard)
-Description: A refreshing take on iOS
-Tag: cydia::commercial
-Author: ikon <desk@taptounlock.me>
-Depiction: http://www.macciti.com/pages/nuvo/index.php
-Name: NUVO
-Sponsor: MacCiti <http://www.macciti.com/cydia/pages/sponsor.php>
 
