@@ -5,15 +5,32 @@ Maintainer: BytaFont
 Depends: com.bytafont.bytafont3, mobilesubstrate
 Filename: ./debs/com.bytafont.bytafonttm2_1.2.0_iphoneos-arm.deb
 Size: 27494
-MD5sum: e2873359e513639492b7bb2826131750
-SHA1: baa449ad5fd7919513ce3e2e1496fcc456dfb6cb
-SHA256: 01c931d4bebe464eefecaa4c8bc871adc34d9b8988252e865e027054fc7f6f7c
+MD5sum: 10198a4f5fc225962d9a6157ab04847c
+SHA1: ef6f742526943d23cabb529df5838bfca510cd12
+SHA256: c70fcef13f38ac4cb1b65e7b6a5f800886974a9d3f7ba343a30eae31dc271e84
 Section: Tweaks
 Homepage: http://twitter.com/mdallak
 Description: Byta Font Tweak Mode 10.2!
 Author: BytaFont.com <info@bytafont.com>
 Depiction: http://mdallak.github.io
 Name: BytaFont Tweak Mode
+
+Package: com.bytafont3.kgpayphone
+Version: 3.1
+Architecture: iphoneos-arm
+Maintainer: BytaFont.com <info@bytafont.com>
+Depends: com.bytafont.bytafont3
+Filename: ./debs/com.bytafont3.kgpayphone_3.1_iphoneos-arm.deb
+Size: 9456488
+MD5sum: 0d75182829ad1cbb8ba6d1c83b818bdb
+SHA1: 970d9bcbde6b28f5132894dc90d0e210fcba7049
+SHA256: cbb4ba6b9aca28c65ca58b39ade7019128cec5b389c93fe42a76f98ebac2ff52
+Section: Fonts (BytaFont 3)
+Description: Font for BytaFont 3 by BytaFont.com
+Author: BytaFont.com <info@bytafont.com>
+Depiction: http://repo.bytafont.com/font_swapmode_depiction?id=3846
+Name: KG Payphone Font 10.2
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
 Package: com.bytafont3.loveiscomplicatedagain
 Version: 4.0
@@ -22,9 +39,9 @@ Maintainer: BytaFont.com <info@bytafont.com>
 Depends: com.bytafont.bytafont3
 Filename: ./debs/com.bytafont3.loveiscomplicatedagain_4.0_iphoneos-arm.deb
 Size: 11172126
-MD5sum: 56d85438da60699783f64b0a0bf68219
-SHA1: 9ddf312b8cc3dd142ed4a3d192964a8485c3a082
-SHA256: 7139d10f73afdf364d1843bda94be59f2b9d65a3667eebd02166cae1cb36c66a
+MD5sum: 756de6fb1ba0d16966f1676edd7a3a26
+SHA1: 0061dc0574294cbbbc53f259c3bc5e6068b75d53
+SHA256: 4f1a6f0aac08ad220fd6ba53ac6d6eff8931406a5e1afcc9ba7cf6c4a60ff631
 Section: Fonts (BytaFont 3)
 Description: Font for BytaFont 3 by BytaFont.com
 Author: BytaFont.com <info@bytafont.com>
