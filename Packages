@@ -5,13 +5,30 @@ Maintainer: BytaFont
 Depends: com.bytafont.bytafont3, mobilesubstrate
 Filename: ./debs/com.bytafont.bytafonttm2_1.2.0_iphoneos-arm.deb
 Size: 27494
-MD5sum: c186dccb43b159ed4e80d490fd28b4fd
-SHA1: a8aaf64d19feba37820bfa75ae39c95065c94a1f
-SHA256: b0a1fc0b8358eeab891943ff750e988ebf53a14e8e1769424ed5c8a89ad048da
+MD5sum: e2873359e513639492b7bb2826131750
+SHA1: baa449ad5fd7919513ce3e2e1496fcc456dfb6cb
+SHA256: 01c931d4bebe464eefecaa4c8bc871adc34d9b8988252e865e027054fc7f6f7c
 Section: Tweaks
 Homepage: http://twitter.com/mdallak
 Description: Byta Font Tweak Mode 10.2!
 Author: BytaFont.com <info@bytafont.com>
 Depiction: http://mdallak.github.io
 Name: BytaFont Tweak Mode
+
+Package: com.bytafont3.loveiscomplicatedagain
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: BytaFont.com <info@bytafont.com>
+Depends: com.bytafont.bytafont3
+Filename: ./debs/com.bytafont3.loveiscomplicatedagain_4.0_iphoneos-arm.deb
+Size: 11172126
+MD5sum: 56d85438da60699783f64b0a0bf68219
+SHA1: 9ddf312b8cc3dd142ed4a3d192964a8485c3a082
+SHA256: 7139d10f73afdf364d1843bda94be59f2b9d65a3667eebd02166cae1cb36c66a
+Section: Fonts (BytaFont 3)
+Description: Font for BytaFont 3 by BytaFont.com
+Author: BytaFont.com <info@bytafont.com>
+Depiction: http://repo.bytafont.com/font_swapmode_depiction?id=3930
+Name: Love Is Complicated Again Font
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
