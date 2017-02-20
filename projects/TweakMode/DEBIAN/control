@@ -2,7 +2,7 @@ Package: com.bytafont.bytafonttm2
 Name: BytaFont Tweak Mode
 Author: BytaFont.com <info@bytafont.com>
 Version: 1.2.0
-Depends: mobilesubstrate
+Depends: com.bytafont.bytafont3, mobilesubstrate
 Architecture: iphoneos-arm
 Description: Byta Font Tweak Mode 10.2!
 Homepage: http://twitter.com/mdallak

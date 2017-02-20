@@ -1,0 +1,12 @@
+Package: com.bytafont.bytafont3
+Depends: firmware (>= 9),unzip,mobilesubstrate
+Name: BytaFont 3
+Version: 3.2
+Architecture: iphoneos-arm
+Description: BytaFont 3 lets you apply fonts to your iDevice in few taps.
+Depiction: http://repo.bytafont.com/bytafont_depiction
+Maintainer: BytaFont.com <info@bytafont.com>
+Author: BytaFont.com <info@bytafont.com>
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+Section: System
+

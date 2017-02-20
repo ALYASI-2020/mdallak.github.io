@@ -1,13 +1,30 @@
+Package: com.bytafont.bytafont3
+Version: 3.2
+Architecture: iphoneos-arm
+Maintainer: BytaFont.com <info@bytafont.com>
+Depends: firmware (>= 9),unzip,mobilesubstrate
+Filename: ./debs/com.bytafont.bytafont3_3.2_iphoneos-arm.deb
+Size: 2002874
+MD5sum: 2a7199c2be2f51d6866fc1b89cf28dd3
+SHA1: e3cbd87740000e317fd3b2989fe7f1f45b539e44
+SHA256: a0946532ae90c3f38bc8fdaade7e3978f4000139adce5d7c66fe5e3a74aa3b9b
+Section: System
+Description: BytaFont 3 lets you apply fonts to your iDevice in few taps.
+Author: BytaFont.com <info@bytafont.com>
+Depiction: http://repo.bytafont.com/bytafont_depiction
+Name: BytaFont 3
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
 Package: com.bytafont.bytafonttm2
 Version: 1.2.0
 Architecture: iphoneos-arm
 Maintainer: BytaFont
-Depends: mobilesubstrate
+Depends: com.bytafont.bytafont3, mobilesubstrate
 Filename: ./debs/com.bytafont.bytafonttm2_1.2.0_iphoneos-arm.deb
-Size: 27492
-MD5sum: bde48fee121652fbffd111f04370b418
-SHA1: be2e1222ff0521109f06b8af20c9820df3e59812
-SHA256: 1041595cac6cc4dd3fb4695fb3564d574b6304639de7c6a0c8befefa2df98db8
+Size: 27494
+MD5sum: 9a2dc14bc789b998da659125b7b0f9a6
+SHA1: 3be0aaf32af86db4a5907394705bf116c3d44fd5
+SHA256: 2354292508834156d801fb63f25d3e5936949bde512ed98d56e6b8db316bd936
 Section: Tweaks
 Homepage: http://twitter.com/mdallak
 Description: Byta Font Tweak Mode 10.2!
