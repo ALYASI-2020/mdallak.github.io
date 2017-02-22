@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>#CyDown by @ijulioverne is awesome to download paid tweaks direct from Cydia!</key>
+	<string>#CyDown (开发者 @ijulioverne) 可以直接从 Cydia 中下载收费插件! </string>
+	<key>%d Packages / %d Sources</key>
+	<string>%d 个安装包 / %d 个软件源</string>
+	<key>-TRANSLATOR-</key>
+	<string>汉化: KleinerSource</string>
+	<key>-TRANSLATOR_LANGUAGE-</key>
+	<string>简体中文</string>
+	<key>-TRANSLATOR_URL-</key>
+	<string>https://apt.ksccc.cc</string>
+	<key>//var/mobile/Documents/CyDown/</key>
+	<string>缓存安装包路径:
+//var/mobile/Documents/CyDown/
+
+备份文件路径:
+///var/mobile/Library/Preferences/com.julioverne.cydown.backups.plist</string>
+	<key>Active downloads queue</key>
+	<string>下载队列数</string>
+	<key>Already Applied</key>
+	<string>已应用</string>
+	<key>Applied in files:</key>
+	<string>已应用到文件:</string>
+	<key>Auto RestartSpringBoard</key>
+	<string>自动重启 SpringBoard</string>
+	<key>Backup Manager</key>
+	<string>备份管理</string>
+	<key>Backup/Restore your packages.</key>
+	<string>备份/还原安装包.</string>
+	<key>Blocker ADs</key>
+	<string>拦截广告</string>
+	<key>Browser Root FileSystem</key>
+	<string>浏览系统文件</string>
+	<key>Cached Packages</key>
+	<string>开启缓存</string>
+	<key>Check MD5Sum...</key>
+	<string>检查 MD5 值...</string>
+	<key>Clear Temp Downloads</key>
+	<string>清除下载缓存</string>
+	<key>Connections by download</key>
+	<string>下载线程数</string>
+	<key>Create Backup Now</key>
+	<string>新建备份</string>
+	<key>CyDown Error</key>
+	<string>CyDown 出错</string>
+	<key>CyDown Uploader SendSpace</key>
+	<string>上传至 SendSpace</string>
+	<key>Debian installation:</key>
+	<string>安装包信息:</string>
+	<key>Delete this Backup</key>
+	<string>删除备份</string>
+	<key>Description</key>
+	<string>描述</string>
+	<key>Disable Always Purchased</key>
+	<string>禁用总是购买</string>
+	<key>Disable RestartSpringBoard</key>
+	<string>禁止重启 SpringBoard</string>
+	<key>Download Link copied to Clipboard</key>
+	<string>复制下载地址</string>
+	<key>Download and Open Window</key>
+	<string>窗口下载</string>
+	<key>Download has Background</key>
+	<string>后台下载</string>
+	<key>Enabled</key>
+	<string>开启</string>
+	<key>File copied successfully.</key>
+	<string>文件复制成功.</string>
+	<key>Follow julioverne</key>
+	<string>推特 @ijulioverne</string>
+	<key>HTTPHeaderField: X-Unique-ID.</key>
+	<string>HTTP 头字段: "唯一性标识".</string>
+	<key>If problem persists contact me on twitter @ijulioverne with package id: </key>
+	<string>如发现问题请附上安装包 ID 发送到我的推特 @ijulioverne</string>
+	<key>Import deb file or Upload any file to SendSpace.</key>
+	<string>将 deb 文件导出或上传至 SendSpace。
+</string>
+	<key>Installed Packages:</key>
+	<string>已安装:</string>
+	<key>Installed Sources:</key>
+	<string>已添加源:</string>
+	<key>MD5Sum verification error!</key>
+	<string>MD5 值不匹配!</string>
+	<key>Manual Refresh Sources</key>
+	<string>手动刷新资源</string>
+	<key>Not Installed</key>
+	<string>未下载</string>
+	<key>Not currently available for </key>
+	<string>暂无匹配</string>
+	<key>Nothing</key>
+	<string>无</string>
+	<key>OK</key>
+	<string>好</string>
+	<key>Official Server</key>
+	<string>官方服务器</string>
+	<key>Package id</key>
+	<string>安装包 ID</string>
+	<key>Packages</key>
+	<string>安装包</string>
+	<key>Payment Required.
+
+Tips: change to udid already purchased in this package on CyDown preferences or turn off option Official Server.</key>
+	<string>已确认支付.
+
+注意: 在 设置 -> CyDown 中改变 UDID 或关闭 "官方服务器" 选项完成购买.</string>
+	<key>Please try Reinstall CyDown.</key>
+	<string>请尝试重新安装 CyDown.</string>
+	<key>Please try again later.</key>
+	<string>请稍后再试!</string>
+	<key>Rebuild Cache (uicache)</key>
+	<string>重建系统缓存 (uicache)</string>
+	<key>Red ProgressBar is Turbo Mode enabled.</key>
+	<string>红色下载进度条表示使用增强模式.</string>
+	<key>Relaunch your SpringBoard.</key>
+	<string>重新运行 SpringBoard.</string>
+	<key>Remove temp files at: /var/mobile/Library/Caches/com.saurik.Cydia/archives/partial/</key>
+	<string>移除缓存文件目录: /var/mobile/Library/Caches/com.saurik.Cydia/archives/partial/</string>
+	<key>Reset Settings to Defaults</key>
+	<string>恢复默认设置</string>
+	<key>Restart SpringBoard</key>
+	<string>注销 SpringBoard</string>
+	<key>Restore</key>
+	<string>恢复</string>
+	<key>Restore this Backup</key>
+	<string>恢复备份</string>
+	<key>Restore your Backup:</key>
+	<string>恢复备份:</string>
+	<key>Show All Actions Available</key>
+	<string>显示所有</string>
+	<key>Show percent Install</key>
+	<string>显示安装进度</string>
+	<key>Support</key>
+	<string>支持</string>
+	<key>Support development</key>
+	<string>捐赠</string>
+	<key>Tab Installed more Filters</key>
+	<string>显示更多项目</string>
+	<key>Tap&amp;Hold Package</key>
+	<string>长按动作</string>
+	<key>This backup contain unknow packages thats not posible to install but can be ignored, if you like to install try adding Sources thats have this package and restore this backup again.</key>
+	<string>此备份包含无法安装但可以忽略的未知安装包, 如需安装请尝试添加此安装包并再次恢复此备份.</string>
+	<key>This backup not have new packages to install.</key>
+	<string>此备份暂无新增内容.</string>
+	<key>This is not a .deb file.</key>
+	<string>这不是 .deb 文件.</string>
+	<key>Turbo Mode</key>
+	<string>增强模式</string>
+	<key>UDID:</key>
+	<string>UDID:</string>
+	<key>URL Depiction</key>
+	<string>描述页面地址</string>
+	<key>URL deb file</key>
+	<string>下载地址</string>
+	<key>Uninstalled Packages:</key>
+	<string>未安装:</string>
+	<key>Uninstalled Sources:</key>
+	<string>未添加源:</string>
+	<key>Unknow Packages:</key>
+	<string>未知:</string>
+	<key>Upload to SendSpace</key>
+	<string>上传至 SendSpace</string>
+	<key>Use in free</key>
+	<string>免费下载</string>
+	<key>Use in larger files that:</key>
+	<string>大文件时使用:</string>
+	<key>Used if application not show in your SpringBoard.</key>
+	<string>如Apps无法在主屏幕显示图标时使用.</string>
+	<key>Version</key>
+	<string>版本</string>
+	<key>Version Registered</key>
+	<string>注册</string>
+	<key>You want to remove this file?</key>
+	<string>确定要移除此文件?</string>
+	<key>has been downloaded!</key>
+	<string>已下载!</string>
+	<key>not currently installed.</key>
+	<string>当前无下载.</string>
+	<key>use custom udid for download package</key>
+	<string>自定义 UDID</string>
+	<key>Skip Source Warning</key>
+	<string>跳过源警告</string>
+	<key>Skip uicache</key>
+	<string>跳过UI缓存</string>
+	<key>use custom udid for download package</key>
+	<string>自定义 UDID</string>
+</dict>
+</plist>
