@@ -1,0 +1,11 @@
+Package: com.Misti.loveiscomplicatedagain
+Name: Love Is Complicated Again
+Version: 4.1
+Architecture: iphoneos-arm
+Depends: com.bytafont.bytafont3
+Depiction: http://mdallak.github.io/depic/index.html?p=com.Misti.loveiscomplicatedagain
+Maintainer: M Dallak <M_Dallak@outlook.com>
+Author: Misti <M_Dallak@outlook.com>
+Section: Fonts (BytaFont 3)
+Description: Misti's Fonts
+

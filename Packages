@@ -1,13 +1,29 @@
+Package: com.Misti.loveiscomplicatedagain
+Version: 4.1
+Architecture: iphoneos-arm
+Maintainer: M Dallak <M_Dallak@outlook.com>
+Depends: com.bytafont.bytafont3
+Filename: ./debs/com.misti.loveiscomplicatedagain_4.1_iphoneos-arm.deb
+Size: 94466
+MD5sum: 523b9ebf6e51b71c7b375333e4483dfe
+SHA1: 2ddf14e461218c829a8950f42362080c375553c1
+SHA256: 508d48c047441a4c5a7f1bc22cf8e9f50d31d916e5b45726ca0982462d93fd2b
+Section: Fonts (BytaFont 3)
+Description: Misti's Fonts
+Author: Misti <M_Dallak@outlook.com>
+Depiction: http://mdallak.github.io/depic/index.html?p=com.Misti.loveiscomplicatedagain
+Name: Love Is Complicated Again
+
 Package: com.bytafont.bytafonttm2
 Version: 1.2.0
 Architecture: iphoneos-arm
 Maintainer: BytaFont
 Depends: com.bytafont.bytafont3, mobilesubstrate
 Filename: ./debs/com.bytafont.bytafonttm2_1.2.0_iphoneos-arm.deb
-Size: 27800
-MD5sum: 4f116c66d7f464c2444b6cc8bfece630
-SHA1: 830c2efb9844841b5a3f8975c5329d55d9f188bd
-SHA256: 3d5ff33c8796d152b61e081fadedabd78b2fa50e68d1e1c9975fde077bbee1fd
+Size: 27996
+MD5sum: 65117468e7201695dd65630df76824ea
+SHA1: d1ef0331f3f01f50c6d2b4c15f2b7194d6f15be7
+SHA256: 814b698b40062723e7dc4cc38fd4738f7fd29871a271afd53bc47f3504ab819c
 Section: Tweaks
 Homepage: http://twitter.com/mdallak
 Description: Byta Font Tweak Mode 10.2!
@@ -21,32 +37,15 @@ Architecture: iphoneos-arm
 Maintainer: BytaFont.com <info@bytafont.com>
 Depends: com.bytafont.bytafont3
 Filename: ./debs/com.bytafont3.kgpayphone_3.1_iphoneos-arm.deb
-Size: 9456488
-MD5sum: 326ace9ac14251bb28ad8c7ac7644c31
-SHA1: 44f5350383e4584d2754e337acf4839484967b0e
-SHA256: 0e9f39dbaa8ac7a0dd2d5bb6403aaa48ff4fd06156b7ffa06a3b2fa76f8d29a4
+Size: 9456802
+MD5sum: 25f3869c1009eccdbc7538f844a96adc
+SHA1: a3faebb713a2eaff1f1c388f3a2ce7e181b6a190
+SHA256: f51afc1c8be5a69e5f924d708132aa96bb55a0e843bada03768817b3696a7165
 Section: Fonts (BytaFont 3)
 Description: Font for BytaFont 3 by BytaFont.com
 Author: BytaFont.com <info@bytafont.com>
 Depiction: http://repo.bytafont.com/font_swapmode_depiction?id=3846
 Name: KG Payphone Font 10.2
-Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
-
-Package: com.bytafont3.loveiscomplicatedagain
-Version: 4.0
-Architecture: iphoneos-arm
-Maintainer: BytaFont.com <info@bytafont.com>
-Depends: com.bytafont.bytafont3
-Filename: ./debs/com.bytafont3.loveiscomplicatedagain_4.0_iphoneos-arm.deb
-Size: 11172126
-MD5sum: 2d4d7134ae009b4f42bc40d7d2e5efc7
-SHA1: 1e0a727446910d1b1d8c8b5be3b03d7f82aebc3b
-SHA256: 18d5c14466e1cf4dae2e723e213d3e3b1c6145edfb74a4dcb104fa026237c4c8
-Section: Fonts (BytaFont 3)
-Description: Font for BytaFont 3 by BytaFont.com
-Author: BytaFont.com <info@bytafont.com>
-Depiction: http://repo.bytafont.com/font_swapmode_depiction?id=3930
-Name: Love Is Complicated Again Font
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
 Package: com.julioverne.cydown
@@ -55,10 +54,10 @@ Architecture: iphoneos-arm
 Maintainer: Julio
 Depends: cydia, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate
 Filename: ./debs/com.julioverne.cydown_6.7.0_iphoneos-arm.deb
-Size: 1693650
-MD5sum: 3bbf2e8f89a7cc94eb0d1ddeff7f5deb
-SHA1: cd68d12db216a3aed166ef245131a64f952b4105
-SHA256: 86e75ab203059264368f25c94b640b885a1bc93b5bea2dd0353a008bb726f2cc
+Size: 1693978
+MD5sum: 8dc17edde77253cb68ab3108bb8362c3
+SHA1: cb92970f182dfe36f0c969f1d44d733a6e1fa148
+SHA256: 259f6cd2dec49f36b82ef5a856ebd6bde3902abccc17e38f8681496615871eb6
 Section: Tweaks
 Homepage: http://twitter.com/ijulioverne
 Description: Cydia Download Manager & Extra Features!

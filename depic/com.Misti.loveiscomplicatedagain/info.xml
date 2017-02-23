@@ -1,0 +1,25 @@
+<package>
+	<version>4.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate</package>
+		<package>PreferenceLoader</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Onscreen Home button</description>
+		<description>In Beta, Email me issues.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Preferences</description>
+			<image>domum.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Support iOS 10</change>
+	</changelog>
+</package>
