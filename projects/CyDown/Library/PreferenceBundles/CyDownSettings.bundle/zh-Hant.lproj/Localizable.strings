@@ -23,6 +23,7 @@
 "Changes" = "變更內容";
 "Check MD5Sum..." = "檢查 MD5值...";
 "Circular ProgressBar" = "以圓形顯示下載進度";
+"Clear CyDown Documents" = "清理 Cydown 下載資料夾";
 "Clear Temp Downloads" = "清理下載暫存檔";
 "Close Button in Instalation" = "安裝頁面新增關閉功能";
 "Close Cydia" = "關閉 Cydia";
@@ -42,6 +43,7 @@
 "Download Link copied to Clipboard" = "複製下載地址至剪貼簿";
 "Download and Open Window" = "打開新視窗下載";
 "Download has Background" = "背景下載";
+"Download/Upload deb files over Wi-Fi." = "經由 Wi-Fi 上傳/下載檔案";
 "Enabled" = "啟用";
 "Fast RestartSpringBoard" = "快速重啟 SpringBoard";
 "File copied successfully." = "檔案複製成功。";
@@ -50,8 +52,7 @@
 "Green" = "綠色";
 "Grey" = "灰色";
 "HTTPHeaderField: X-Unique-ID." = "HTTPHeaderField: X-Unique-ID.";
-"HUD VIEW ALPHA" = "HUD 透明度";
-"Hide Ignored Updates" = "忽略隱藏更新";
+"Hide Ignored Updates" = "隱藏已忽略升級項目";
 "Hide PopUp Refresh Error" = "隱藏刷新錯誤";
 "If problem persists contact me on twitter @ijulioverne with package id: " = "如有發現問題請附上安裝包 ID 並發送到 推特 @ijulioverne";
 "Import deb file or Upload any file to SendSpace." = "匯入 Deb 檔案 或 上傳任何檔案至 SendSpace";
@@ -80,6 +81,7 @@
 "Red ProgressBar is Turbo Mode enabled." = "紅色進度條 = 加速模式\n藍色進度條 = 一般模式";
 "Red" = "紅色";
 "Relaunch your SpringBoard." = "重新啟動主畫面";
+"Remove all deb files at: /var/mobile/Documents/CyDown/" = "將會刪除 /var/mobile/Documents/CyDown/ 路徑下所有檔案";
 "Remove temp files at: /var/mobile/Library/Caches/com.saurik.Cydia/archives/partial/" = "暫存檔位置：/var/mobile/Library/Caches/com.saurik.Cydia/archives/partial/";
 "Reset Settings to Defaults" = "重新設定為預設值";
 "Restart SpringBoard" = "重啟主畫面";
@@ -87,6 +89,7 @@
 "Restore your Backup:" = "回復備份:";
 "Restore" = "回復";
 "Search" = "搜尋";
+"SendSpace File's URL." = "管理 SendSpace 檔案網址";
 "Show All Actions Available" = "顯示動作選單";
 "Show All Changes" = "顯示所有變更";
 "Show percent Install" = "顯示安裝進度百分比";
@@ -94,6 +97,7 @@
 "Skip Source Warning" = "跳過軟體源警告";
 "Skip uicache" = "跳過圖示快取";
 "Source Add Manager" = "一般/批次 加入軟體源";
+"Source Selections" = "批次選擇軟體源";
 "Sources" = "來源";
 "Support development" = "贊助開發者";
 "Support" = "問題回報";
@@ -121,6 +125,7 @@
 "Used if application not show in your SpringBoard." = "當App圖示無法在主畫面正常顯示時使用";
 "Version Registered" = "已註冊版本";
 "Version" = "版本";
+"Wi-Fi Sharing" = "Wi-Fi 共享資料夾";
 "You want to remove this file?" = "確定要移除此檔案?";
 "has been downloaded!" = "已下載!";
 "is currently in progress." = "目前正在進度中...";

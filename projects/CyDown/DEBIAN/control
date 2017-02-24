@@ -1,7 +1,7 @@
 Package: com.julioverne.cydown
 Name: CyDown
 Author: julioverne <julioverne@me.com>
-Version: 6.7.0
+Version: 6.6.1
 Depends: cydia, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate
 Architecture: iphoneos-arm
 Description: Cydia Download Manager & Extra Features!
