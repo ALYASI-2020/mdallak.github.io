@@ -1,4 +1,4 @@
-Package: com.mdallak.falcon
+Package:  com.tweaksbylogan.falcon
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.a3tweaks.flipswitch
 Name: Falcon
 Version: 1.0
@@ -6,10 +6,9 @@ Architecture: iphoneos-arm
 Description: A powerful, dynamic lock screen and NC add-on!
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=falconDp
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=falconDp
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: M Dallak <m_dallak@outlook.com>
 Author: Logan O'Connell <logan.developeremail@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 Section: Tweaks
 dev: tweaksbylogan
-Tag: cydia::commercial, purpose::extension, compatible::ios10
 Icon: file:///Library/PreferenceBundles/FalconPrefs.bundle/icon@2x.png
