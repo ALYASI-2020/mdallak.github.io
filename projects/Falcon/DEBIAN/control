@@ -1,4 +1,4 @@
-Package: io.m_dallak.falcon
+Package: com.mdallak.falcon
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.a3tweaks.flipswitch
 Name: Falcon
 Version: 1.0
