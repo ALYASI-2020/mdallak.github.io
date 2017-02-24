@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = KillBackground10Preferences;
+	cell = PSLinkCell;
+	detail = KillBackground10PreferencesListController;
+	icon = KB_icon.png;
+	isController = 1;
+	label = KillBackground10;
+    };
+}

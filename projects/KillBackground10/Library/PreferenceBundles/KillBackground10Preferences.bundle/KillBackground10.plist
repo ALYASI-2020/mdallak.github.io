@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>إعدادات</string>
+			<key>footerText</key>
+			<string>سيتم عرض 2 من أزرار كبيرة (يسار + يمين) بدلا من واحدة. (أفضل على آي باد)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>cellClass</key>
+			<string>KB10SwitchTableCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.ichitaso.killbackground10</string>
+			<key>key</key>
+			<string>AutoHide</string>
+			<key>label</key>
+			<string>سيتم أغلاق التطبيقات تلقاءي</string>
+			<key>PostNotification</key>
+			<string>com.ichitaso.killbackground10.prefs</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>cellClass</key>
+			<string>KB10SwitchTableCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ichitaso.killbackground10</string>
+			<key>key</key>
+			<string>Left</string>
+			<key>label</key>
+			<string>الزر على اليسار:</string>
+			<key>PostNotification</key>
+			<string>com.ichitaso.killbackground10.prefs</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>cellClass</key>
+			<string>KB10SwitchTableCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ichitaso.killbackground10</string>
+			<key>key</key>
+			<string>BigButtons</string>
+			<key>label</key>
+			<string>أزرار كبيرة:</string>
+			<key>PostNotification</key>
+			<string>com.ichitaso.killbackground10.prefs</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>cellClass</key>
+			<string>KB10SwitchTableCell</string>
+			<key>defaults</key>
+			<string>com.ichitaso.killbackground10</string>
+			<key>key</key>
+			<string>KillMusic</string>
+			<key>label</key>
+			<string>قتل اغاني:</string>
+			<key>PostNotification</key>
+			<string>com.ichitaso.killbackground10.prefs</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>استبعاد تطبيقات</string>
+			<key>detail</key>
+			<string>PSFilteredAppListListController</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>زر نمط</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>cellClass</key>
+			<string>KB10SwitchTableCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ichitaso.killbackground10</string>
+			<key>key</key>
+			<string>legacy</string>
+			<key>label</key>
+			<string>Use Legacy button :</string>
+			<key>PostNotification</key>
+			<string>com.ichitaso.killbackground10.prefs</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>cellClass</key>
+			<string>KB10SwitchTableCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ichitaso.killbackground10</string>
+			<key>key</key>
+			<string>Hidebutton</string>
+			<key>label</key>
+			<string>إخفاء أزرار:</string>
+			<key>PostNotification</key>
+			<string>com.ichitaso.killbackground10.prefs</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>زر الطول-العرض</string>
+			<key>footerText</key>
+			<string>Big Buttons does not apply.</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ichitaso.killbackground10.prefs</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>default</key>
+			<string>0</string>
+			<key>defaults</key>
+			<string>com.ichitaso.killbackground10</string>
+			<key>key</key>
+			<string>btnHeight</string>
+			<key>label</key>
+			<string>زر الطول</string>
+			<key>validTitles</key>
+			<array>
+				<string>default</string>
+				<string>1 px</string>
+				<string>2 px</string>
+				<string>3 px</string>
+				<string>4 px</string>
+				<string>5 px</string>
+				<string>6 px</string>
+				<string>7 px</string>
+				<string>8 px</string>
+				<string>9 px</string>
+				<string>10 px</string>
+				<string>11 px</string>
+				<string>12 px</string>
+				<string>13 px</string>
+				<string>14 px</string>
+				<string>15 px</string>
+				<string>16 px</string>
+				<string>17 px</string>
+				<string>18 px</string>
+				<string>19 px</string>
+				<string>20 px</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<string>0</string>
+				<string>1</string>
+				<string>2</string>
+				<string>3</string>
+				<string>4</string>
+				<string>5</string>
+				<string>6</string>
+				<string>7</string>
+				<string>8</string>
+				<string>9</string>
+				<string>10</string>
+				<string>11</string>
+				<string>12</string>
+				<string>13</string>
+				<string>14</string>
+				<string>15</string>
+				<string>16</string>
+				<string>17</string>
+				<string>18</string>
+				<string>19</string>
+				<string>20</string>
+			</array>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ichitaso.killbackground10.prefs</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>default</key>
+			<string>0</string>
+			<key>defaults</key>
+			<string>com.ichitaso.killbackground10</string>
+			<key>key</key>
+			<string>btnWidth</string>
+			<key>label</key>
+			<string>عرض زر</string>
+			<key>validTitles</key>
+			<array>
+				<string>default</string>
+				<string>1 px</string>
+				<string>2 px</string>
+				<string>3 px</string>
+				<string>4 px</string>
+				<string>5 px</string>
+				<string>6 px</string>
+				<string>7 px</string>
+				<string>8 px</string>
+				<string>9 px</string>
+				<string>10 px</string>
+				<string>11 px</string>
+				<string>12 px</string>
+				<string>13 px</string>
+				<string>14 px</string>
+				<string>15 px</string>
+				<string>16 px</string>
+				<string>17 px</string>
+				<string>18 px</string>
+				<string>19 px</string>
+				<string>20 px</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<string>0</string>
+				<string>1</string>
+				<string>2</string>
+				<string>3</string>
+				<string>4</string>
+				<string>5</string>
+				<string>6</string>
+				<string>7</string>
+				<string>8</string>
+				<string>9</string>
+				<string>10</string>
+				<string>11</string>
+				<string>12</string>
+				<string>13</string>
+				<string>14</string>
+				<string>15</string>
+				<string>16</string>
+				<string>17</string>
+				<string>18</string>
+				<string>19</string>
+				<string>20</string>
+			</array>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>اختيار</string>
+			<key>footerText</key>
+			<string>If run the button long press, Run the URL scheme at the end.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>cellClass</key>
+			<string>KB10SwitchTableCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ichitaso.killbackground10</string>
+			<key>key</key>
+			<string>isAction</string>
+			<key>label</key>
+			<string>مخطط URL في النهاية:</string>
+			<key>PostNotification</key>
+			<string>com.ichitaso.killbackground10.prefs</string>
+		</dict>
+		<dict>
+			<key>PostNotification</key>
+			<string>com.ichitaso.killbackground10.prefs</string>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>cellClass</key>
+			<string>KBGEditTextCell</string>
+			<key>default</key>
+			<string></string>
+			<key>defaults</key>
+			<string>com.ichitaso.killbackground10</string>
+			<key>key</key>
+			<string>urlScheme</string>
+			<key>label</key>
+			<string>مخطط URL</string>
+			<key>placeholder</key>
+			<string></string>
+			<key>isURL</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>تطبيقات الموصى بها</string>
+			<key>footerText</key>
+			<string>هذي التطبيقات صالحة لتنظيف ذاكرة الجهاز</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>SySight</string>
+			<key>icon</key>
+			<string>SySight.png</string>
+			<key>action</key>
+			<string>SySight:</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>URL scheme : SySight</string>
+			<key>action</key>
+			<string>SySightcopy:</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>ائتمان</string>
+			<key>footerText</key>
+			<string>Based Tweak by Mathieu Bolard (@mattlawer)
+
+Special thanks! Icon designed by @Sorega4
+© 2017 Will feel Tips by ichitaso</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>CustomButtonCell</string>
+			<key>label</key>
+			<string>تطبيق الإعدادات</string>
+			<key>icon</key>
+			<string>Legacy-KB_icon@2x.png</string>
+			<key>action</key>
+			<string>apply:</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>KillBackground10</string>
+</dict>
+</plist>
