@@ -3,7 +3,7 @@ Name: TouchHome
 Version: 0.0.1-55+debug
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Depiction: http://mdallak.github.io/depic/index.html?p=com.martinpham.touchhome
+Depiction: https://raw.githubusercontent.com/MDallak/mdallak.github.io/master/depic/TouchHome/TouchHome.html
 Maintainer: TouchHome <M_Dallak@outlook.com>
 Author: TouchHome <M_Dallak@outlook.com>
 Section: Tweaks

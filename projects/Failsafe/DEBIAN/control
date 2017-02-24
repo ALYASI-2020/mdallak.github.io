@@ -6,3 +6,5 @@ Depends: firmware (>= 10.0)
 Architecture: iphoneos-arm
 Name: Cydia Failsafe
 Author: D4ni <mail@d4ni.nl>
+Depiction: 
+
