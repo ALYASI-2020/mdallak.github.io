@@ -5,9 +5,9 @@ Maintainer: M Dallak <M_Dallak@outlook.com>
 Depends: com.bytafont.bytafont3
 Filename: ./debs/com.misti.loveiscomplicatedagain_4.1_iphoneos-arm.deb
 Size: 91758
-MD5sum: 4b234d737408af5fcc37146b8490dd83
-SHA1: 6fee0042075eccb68e1931c0aac3e47b47470106
-SHA256: db020f9ce13341e2ceade6a073de012f6da2f00bc7738ce2afa95830667e31a7
+MD5sum: 7507a1780e5ca5aa0924f534b5dc2fb2
+SHA1: 180ab6639626730bf61b5bfd15368c783d6867d3
+SHA256: d216e869cc5c3932db86c4f4148242ea323d95dc2e50cb0999ddfba15a36eabe
 Section: Fonts (BytaFont 3)
 Description: Misti's Fonts
 Author: Misti <M_Dallak@outlook.com>
@@ -21,9 +21,9 @@ Maintainer: BytaFont
 Depends: com.bytafont.bytafont3, mobilesubstrate
 Filename: ./debs/com.bytafont.bytafonttm2_1.2.0_iphoneos-arm.deb
 Size: 27504
-MD5sum: 5b8568fc45cc2582daad28a4c0bc0e13
-SHA1: 61ca1b743ed8c9bca8feb75d3cc4d98b9629821e
-SHA256: 9521040dcfa745bc032dc441635e412f5dae2c03fb739425c83475b7777ea7bd
+MD5sum: 9b53751b97939eea4d71bf4982bf39e3
+SHA1: 6ccf120407908eeea89298c273a7a3c04246bf2b
+SHA256: f948853b9bbdbf1893bda5b66ee5c20850688e11628248721d5acc92248cb657
 Section: Tweaks
 Homepage: http://twitter.com/mdallak
 Description: Byta Font Tweak Mode 10.2!
@@ -38,15 +38,35 @@ Maintainer: BytaFont.com <info@bytafont.com>
 Depends: com.bytafont.bytafont3
 Filename: ./debs/com.bytafont3.kgpayphone_3.1_iphoneos-arm.deb
 Size: 9456488
-MD5sum: a961036037588362ea29ef51af354f32
-SHA1: 4a5cab478ccbf2aa0b3e6ae2508b06842b3c1076
-SHA256: 3af01b381caabace75d361ebba337f8d5b71b93d38563896d74fa216b8a85bf0
+MD5sum: 24aa0778cd5a5cfa983904056202a827
+SHA1: 8838c0936af4337051d476d36af065338d158c78
+SHA256: 085ec36b78f79e314d2a4a736e8a1a1a215a9275280fb5af312c59913289b87d
 Section: Fonts (BytaFont 3)
 Description: Font for BytaFont 3 by BytaFont.com
 Author: BytaFont.com <info@bytafont.com>
 Depiction: http://repo.bytafont.com/font_swapmode_depiction?id=3846
 Name: KG Payphone Font 10.2
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.ichitaso1.killbackground10
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, applist
+Conflicts: tw.garynil.swipehome, com.imokhles.origappswitcher, com.cpdigitaldarkroom.legacyswitcher, com.skylerk99.switchertweak, com.ichitaso.killbackground9
+Filename: ./debs/com.ichitaso1.killbackground10_1.0.1_iphoneos-arm.deb
+Size: 296058
+MD5sum: 10beddbb5354593069afb8fb91f4a456
+SHA1: 1d8cba6d8abb9b740b9527504211355c58e148c9
+SHA256: 50af3d600c4ddda4d6a086b162554f43ecd3a94da783b7a5146a07ec010b5521
+Section: Tweaks
+Description: Kill background apps with style for iOS 10!
+Author: ichitaso <willfeeltips+kb10@gmail.com>
+Depiction: https://mdallak.github.io/depic/index.html?p=com.ichitaso1.killbackground10
+Dev: ichitaso
+Icon: file:///Library/PreferenceBundles/KillBackground10Preferences.bundle/KB_icon@2x.png
+Name: KillBackground10
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.julioverne.cydown
 Version: 6.6.1
@@ -55,9 +75,9 @@ Maintainer: Julio
 Depends: cydia, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate
 Filename: ./debs/com.julioverne.cydown_6.6.1_iphoneos-arm.deb
 Size: 1722012
-MD5sum: 39a016d4e6514542949ca3173e733cd1
-SHA1: f18405f5de37292ea294dd614e30740c7e27c8bf
-SHA256: a72ec0de81fe992543a18d42e69013774f52e514cae6de1cfc6a0a5eb28974cb
+MD5sum: 75872fcb6d17fad899030d2a173f34a1
+SHA1: 82a4f4bec2da02c9bcb8786c1a87ecb96c41de26
+SHA256: bb0f0dabad1c980b9ee25d6b505ab5dddcd9d6f9be20d62ed4e2f5bd8ee69600
 Section: Tweaks
 Homepage: http://twitter.com/ijulioverne
 Description: Cydia Download Manager & Extra Features!
@@ -72,35 +92,15 @@ Architecture: iphoneos-arm
 Maintainer: TouchHome <M_Dallak@outlook.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.martinpsham.touchhome_0.0.1-55+debug_iphoneos-arm.deb
-Size: 7428
-MD5sum: 1c2b3a0224a1cd4486337f07b28b4af0
-SHA1: acd4f5720e78c7354b1f83c3cce9eda9cf538e28
-SHA256: 4a5bb6811b2dec27985cd7babcf34982fbe6633975f0d490dbab095bcbf330a6
+Size: 7838
+MD5sum: 6f24d35c6241fb7406f14786dca0651f
+SHA1: 9acadc720aeb0155df5853c94bf428e8d393b90b
+SHA256: b6b5ae111cac179a291d42d1871c503583ca45cda37d642d8a57e8ee44909f7f
 Section: Tweaks
 Description: Use TouchID sensor as Home button
 Author: TouchHome <M_Dallak@outlook.com>
 Depiction: https://mdallak.github.io/depic/TouchHome/TouchHome.html
 Name: TouchHome
-
-Package: com.mdallak.killbackground10
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, applist
-Conflicts: tw.garynil.swipehome, com.imokhles.origappswitcher, com.cpdigitaldarkroom.legacyswitcher, com.skylerk99.switchertweak, com.ichitaso.killbackground9
-Filename: ./debs/com.mdallak.killbackground10_1.0.1_iphoneos-arm.deb
-Size: 295746
-MD5sum: 573acf9d4e54445981bbb0cb000f4748
-SHA1: 7423d628e4232aeb02c2f380b2dd35d78aab085a
-SHA256: 0731f98d5a21cbb1276d0317aefcd4d8bc7221cda1404a0b164831f6c5ea189d
-Section: Tweaks
-Description: Kill background apps with style for iOS 10!
-Tag: cydia::commercial, purpose::extension, compatible::ios10
-Author: ichitaso <willfeeltips+kb10@gmail.com>
-Dev: ichitaso
-Icon: file:///Library/PreferenceBundles/KillBackground10Preferences.bundle/KB_icon@2x.png
-Name: KillBackground10
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.tweaksbylogan.falcon
 Version: 1.0
@@ -109,9 +109,9 @@ Maintainer: M Dallak <m_dallak@outlook.com>
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.a3tweaks.flipswitch
 Filename: ./debs/com.tweaksbylogan.falcon_1.0_iphoneos-arm.deb
 Size: 84862
-MD5sum: e1a1f9db9cb6147916ae6e9c49e0d2e7
-SHA1: f80d8f5a73184df128f33a6037386866b95c4cb7
-SHA256: 088b3869a92f822485fa2aab0890b658f42ffe2df6b91fc951287b7eb5220c9b
+MD5sum: 6a59d48436831877656bf325dc968b66
+SHA1: acb62fac0e593aec0604ea933cf6dae8b7831b93
+SHA256: 48b5b74979f8b9678fba47aeb78b6c94fbf2da2719fbbfe7ea0aa954ef49c94a
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=falconDp
 Description: A powerful, dynamic lock screen and NC add-on!
@@ -129,9 +129,9 @@ Maintainer: D4ni <mail@d4ni.nl>
 Depends: firmware (>= 10.0)
 Filename: ./debs/nl.d4ni.cydiainstall_2.1_iphoneos-arm.deb
 Size: 1811894
-MD5sum: a67355b0c2c2a7033f2f21970f2053a7
-SHA1: ef06673a1446351ad5082914a0fdd7943b54c6a3
-SHA256: 67a08c133b3e7a23a6148f3bbaff6e9ea06deb3f9b7f488d7d0fbe5310bce389
+MD5sum: 173b90ce251e0cd0dc8fe63047a84735
+SHA1: b615b3917d083f9abacf2f0ecdc8b88d5b1f5d1f
+SHA256: 40331fd1ba8a93cf877c6f533bdca4ea7db589aa8a0e8f50c8675724772d4d9e
 Section: Utilities
 Author: D4ni <mail@d4ni.nl>
 Name: Cydia Failsafe
