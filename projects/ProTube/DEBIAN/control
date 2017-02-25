@@ -4,9 +4,8 @@ Name: ProTube
 Version: 1.12.2
 Architecture: iphoneos-arm
 Description: complete feature-filled YouTube app
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: M Dallak <M_Dallak@outlook.com>
 Author: Jonas Gessner <support@j-gessner.de>
 Section: Multimedia
-dev: maxner
 Depiction: http://mdallak.github.io/depic/index.html?p=ProTube
 Icon: file:///Applications/ProTube.app/icon.png
