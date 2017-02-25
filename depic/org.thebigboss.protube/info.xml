@@ -40,24 +40,22 @@
                         </li><li>Much more!
 </description>
 	</descriptionlist>
-                    <img width="132" height="198" src="protube2.jpg">
-                        <img width="132" height="198" src="protube3.jpg">
-                        </a></a></div>
-                <p>
-                    <iframe width="260" height="132" src="./20fT55y5JGM.html" frameborder="0" allowfullscreen=""></iframe>
-                </p><p>
 	<screenshots>
 		<screenshot>
-			<image>killbackground10-3.png</image>
-			<image>killbackground10-1.png</image>
+			<image>protube2.jpg</image>
+			<image>protube3.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-        <change>v1.12.2:<br>
+        <change>
+            v1.12.2:<br>
             • iOS 10 support<br>
-                • Fixed download errors<br></change>
-        <change>v1.12.1:<br>
-        • Fixed activation problems.</change>
+                • Fixed download errors<br>
+        </change>
+        <change>
+            v1.12.1:<br>
+        • Fixed activation problems.
+        </change>
 	</changelog>
 	<links>
 		<link>
