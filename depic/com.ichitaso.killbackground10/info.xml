@@ -1,0 +1,35 @@
+<package>
+	<id>com.ichitaso.killbackground10</id>
+	<name>KillBackground10</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+        <package>preferenceloader</package>
+        <package>applist</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Kill background apps with style for iOS 10!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>killbackground10-3.png</image>
+			<image>killbackground10-1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+	</links>
+</package>
