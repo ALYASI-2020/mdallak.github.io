@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = ProTubePrefs;
+		cell = PSLinkCell;
+		detail = "ProTubePrefsListController";
+		icon = "icon.png";
+		isController = 1;
+		label = ProTube;
+	};
+}

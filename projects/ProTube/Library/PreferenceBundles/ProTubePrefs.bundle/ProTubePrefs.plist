@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>label</key>
+			<string>Front Page</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>validTitles</key>
+			<array>
+				<string>Home</string>
+				<string>Subscriptions</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<false/>
+				<true/>
+			</array>
+			<key>key</key>
+			<string>subs</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>de.j-gessner.protube.preferences</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>label</key>
+			<string>Audio Download Quality</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>validTitles</key>
+			<array>
+				<string>Highest</string>
+				<string>Medium</string>
+				<string>Lowest</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>3</integer>
+				<integer>2</integer>
+				<integer>1</integer>
+			</array>
+			<key>key</key>
+			<string>audioQual</string>
+			<key>default</key>
+			<integer>2</integer>
+			<key>defaults</key>
+			<string>de.j-gessner.protube.preferences</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>de.j-gessner.protube.preferences</string>
+			<key>key</key>
+			<string>noAutoplay</string>
+			<key>label</key>
+			<string>Disable Autoplay</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>ProTube ®</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+Package: org.thebigboss.protube
+Depends: firmware(>= 4.0), preferenceloader
+Name: ProTube
+Version: 1.12.2
+Architecture: iphoneos-arm
+Description: complete feature-filled YouTube app
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Jonas Gessner <support@j-gessner.de>
+Section: Multimedia
+dev: maxner
+Depiction: http://mdallak.github.io/depic/index.html?p=ProTube
+Icon: file:///Applications/ProTube.app/icon.png

@@ -1,0 +1,12 @@
+var remove = new Array(document.getElementsByClassName('pq'), document.getElementsByClassName('oq'), document.getElementsByClassName('kab'));
+for (var i = 0; i < remove.length; i++) {
+    var elems = remove[i];
+    for (var ii = 0; ii < elems.length; ii++) {
+        var elem = elems[ii];
+        elem.parentNode.removeChild(elem);
+    }
+}
+
+var text = 'bi li*,*xh hi*,*wh gi*,*rh bi*,*ap li*,*dh nh';
+
+var elementsRaw = text.split("*,*");

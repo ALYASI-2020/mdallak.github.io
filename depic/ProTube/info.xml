@@ -1,0 +1,68 @@
+<package>
+	<id>org.thebigboss.protube</id>
+	<name>ProTube</name>
+	<version>1.12.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>4.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+        <description>Compatible with iOS 5, 6, 7, 8, 9 and 10</description>
+        <description>This purchase includes <a href="cydia://package/org.thebigboss.protubehd">ProTube HD!</a> You won't need to pay extra for the iPad version!</description>
+        <description><br>
+            <em>"...saying no to an app like this is like refusing to buy a Lamborghini for a buck and a half."</em><br>
+                <strong>- Anthony Bouchard, ModMyi Staff Writer</strong><br>
+                    <br>
+                        ProTube is one of the most popular Cydia apps, one of the feature richest YouTube application available for iPhone or iPod touch, packing every possible feature in one super intuitive application. Video download, HD streaming, audio download, &amp; lots more, ProTube has it all! You can even watch blocked videos! These are the key features of the ProTube app:<br>
+                        </span>
+                    </p><ul style="font-size:small">
+                        <li>View videos, comment, rate, subscribe, search etc.
+                        </li><li>Completely control your account (My Videos, Favorites, Inbox...)
+                        </li><li>HD and SD video downloads (up to 1080p)
+                        </li><li>Download just the audio of a video in high quality
+                        </li><li>Super fast loading thanks to the Nitro Javascript engine.
+                        </li><li>Watch blocked videos!
+                        </li><li>Enable or disable autoplay
+                        </li><li>Watch videos in ANY quality between 240p and 1080p.
+                        </li><li>Import downloaded songs and videos using <a href="cydia://package/org.thebigboss.bridge">Bridge</a>
+                        </li><li>Background Downloads
+                        </li><li>Share and Manage saved Videos
+                        </li><li>Saved videos are displayed in a beautiful interface showing size, date, length and a thumbnail
+                        </li><li>Simultaneous downloads supported, each showing speed, progress, remaining time, total download size and downloaded bytes
+                        </li><li>ALL banner ads are blocked
+                        </li><li>Watch videos as they download
+                        </li><li>AirPlay support
+                        </li><li>12 Languages!
+                        </li><li>Much more!
+</description>
+	</descriptionlist>
+                    <img width="132" height="198" src="protube2.jpg">
+                        <img width="132" height="198" src="protube3.jpg">
+                        </a></a></div>
+                <p>
+                    <iframe width="260" height="132" src="./20fT55y5JGM.html" frameborder="0" allowfullscreen=""></iframe>
+                </p><p>
+	<screenshots>
+		<screenshot>
+			<image>killbackground10-3.png</image>
+			<image>killbackground10-1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+        <change>v1.12.2:<br>
+            • iOS 10 support<br>
+                • Fixed download errors<br></change>
+        <change>v1.12.1:<br>
+        • Fixed activation problems.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+	</links>
+</package>
