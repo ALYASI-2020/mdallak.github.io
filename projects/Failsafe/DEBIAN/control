@@ -6,5 +6,6 @@ Depends: firmware (>= 10.0)
 Architecture: iphoneos-arm
 Name: Cydia Failsafe
 Author: D4ni <mail@d4ni.nl>
-Depiction: 
+Description: Adds a springboard icon which can be used to reinstall Cydia if removed.
+Depiction: https://mdallak.github.io/depic/index.html?p=Failsafe
 
