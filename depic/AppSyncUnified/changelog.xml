@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>6.0~b1</version>
+		<change>Return the public "Apple iPhone OS Application Signing" intermediate certificate instead of `kSecMagicBytes` on iOS 10 to avoid a Security.framework crash — thanks JulioVerne!</change>
+	</changes>
+</changelog>

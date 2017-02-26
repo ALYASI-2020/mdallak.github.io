@@ -1,0 +1,23 @@
+<package>
+	<version>6.0~b1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>net.angelxwind.appsyncunified</package>
+	</dependencies>
+	<descriptionlist>
+		<description>AppSync Unified allows you to sync and install unsigned iOS applications. Works on iOS 5 and above.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Return the public "Apple iPhone OS Application Signing" intermediate certificate instead of `kSecMagicBytes` on iOS 10 to avoid a Security.framework crash — thanks JulioVerne!</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+	</links>
+</package>
