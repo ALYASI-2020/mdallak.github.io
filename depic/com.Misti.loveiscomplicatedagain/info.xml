@@ -1,17 +1,19 @@
 <package>
-	<id>com.Misti.loveiscomplicatedagain</id>
-	<name>Love Is Complicated Again</name>
-	<version>4.1</version>
+	<id>com.ichitaso.killbackground10</id>
+	<name>KillBackground10</name>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>com.bytafont.bytafont3</package>
+		<package>mobilesubstrate</package>
+        <package>preferenceloader</package>
+        <package>applist</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Font for BytaFont 3 by M_Dallak</description>
+		<description>Kill background apps with style for iOS 10!</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -20,8 +22,9 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Fix iOS 10.2</change>
-        <change>add bold</change>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
 	</changelog>
 	<links>
 		<link>

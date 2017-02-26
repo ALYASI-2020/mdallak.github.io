@@ -1,10 +1,10 @@
 <changelog>
 	<changes>
-		<version>4.1</version>
-		<change>Fix iOS 10.2</change>
+		<version>1.0.1</version>
+		<change>Second release</change>
 	</changes>
 	<changes>
-		<version>4.0</version>
+		<version>1.0.0</version>
 		<change>Initial Release</change>
 	</changes>
 </changelog>
