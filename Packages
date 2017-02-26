@@ -5,9 +5,9 @@ Maintainer: M Dallak <M_Dallak@outlook.com>
 Depends: com.bytafont.bytafont3
 Filename: ./debs/com.misti.loveiscomplicatedagain_4.1_iphoneos-arm.deb
 Size: 91770
-MD5sum: e667b1849c0f276e5c628fc4ff4e95aa
-SHA1: bf3d898be88d0a85c93cc00aa8fdbe3ee3dab602
-SHA256: fe8e671e432fd0bc0813222af7ffaa0caec1761882230187da3fdb3a4b77199e
+MD5sum: bd8522bc9710764ad9533d866b65b4c5
+SHA1: 46b6429c7b144df895229fe272b51493efa4d4a7
+SHA256: 3a5b0d2e8d2bb48a71d3b8e0956bbadb612f39c37513747516921af4260996cb
 Section: Fonts (BytaFont Tweak Mode)
 Description: Misti's Fonts for BytaFont 3 by M_Dallak
 Author: Misti <M_Dallak@outlook.com>
@@ -21,9 +21,9 @@ Maintainer: BytaFont
 Depends: com.bytafont.bytafont3, mobilesubstrate
 Filename: ./debs/com.bytafont.bytafonttm2_1.2.0_iphoneos-arm.deb
 Size: 27504
-MD5sum: 7f594414afbb69c78ae24465a411fe30
-SHA1: 77f2d257cbbaa15117840be9210107e0521807fd
-SHA256: a82916071d180d7b784db96d5685b782bb1d48ccac00c2363948a66686532086
+MD5sum: 68b68be47246cf177dc8bd975ba4e56e
+SHA1: 68af3c64b13eb5dbf2e8f5d9e0e82f0098aec258
+SHA256: 43412dd8326cb29542bb5f50a4a9e2a35f991153d5196d07687195eb9ac5b20d
 Section: Tweaks
 Homepage: http://twitter.com/mdallak
 Description: Byta Font Tweak Mode 10.2!
@@ -38,9 +38,9 @@ Maintainer: BytaFont.com <info@bytafont.com>
 Depends: com.bytafont.bytafont3
 Filename: ./debs/com.bytafont3.kgpayphone_3.1_iphoneos-arm.deb
 Size: 9456488
-MD5sum: 48c814af1f92c7ed2b030e48695f1c84
-SHA1: 210e2f04fb527ab9ade998ab11f712800197a542
-SHA256: cc7bbf8f2ba04873cd9a79e617aa8da3f1145912d7e6768b31c83ddc69ccefd5
+MD5sum: 0ecc7525dad7792a7b833f2aa3440df1
+SHA1: becbb1b5a7df2e0d2965f04d43c538040fe245ec
+SHA256: f6ade0585eeffeeaa69ff5c59a67ec73ff14b3da1b1aad12535e74cfeb9cbf03
 Section: Fonts (BytaFont 3)
 Description: Font for BytaFont 3 by BytaFont.com
 Author: BytaFont.com <info@bytafont.com>
@@ -55,10 +55,10 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader, applist
 Conflicts: tw.garynil.swipehome, com.imokhles.origappswitcher, com.cpdigitaldarkroom.legacyswitcher, com.skylerk99.switchertweak, com.ichitaso.killbackground9
 Filename: ./debs/com.ichitaso.killbackground10_1.0.1_iphoneos-arm.deb
-Size: 295730
-MD5sum: c99d9de3d1f9bdeeda45c0d94ee3a5f4
-SHA1: e54bb568431b0aa43a72f539e93d532b7f091e62
-SHA256: 3d7131d61abaac8db50d800dd30610fd60d5a41c77fb111a8c35bb398c485b72
+Size: 296436
+MD5sum: b9e8c5c66790143de1fcf837809c4f45
+SHA1: 980a27eb9ed0bdfc729b07f0d094fad5fd6a665d
+SHA256: ebeaf987291e4e6adda6dc6693abbe58ae3230fb2ab9b68c38e6cb915f131cf2
 Section: Tweaks
 Description: Kill background apps with style for iOS 10!
 Author: ichitaso <willfeeltips+kb10@gmail.com>
@@ -75,9 +75,9 @@ Maintainer: Julio
 Depends: cydia, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate
 Filename: ./debs/com.julioverne.cydown_6.6.1_iphoneos-arm.deb
 Size: 1722012
-MD5sum: a176c88e33e9acf9664615d87ed3881c
-SHA1: d6fa654ece57b8b06709fca770407dd27a7655f7
-SHA256: 2ec569af42dc9952325e9174f7ab67444f713a81759450dde8c9b1ac992a0caa
+MD5sum: 97064c90852414f69388f414ea223d3e
+SHA1: 1a849f57f0b33bf86837db072dc77dd681be26c8
+SHA256: a999ebb6dbdbef0b9efd61f9178dcb760359ae412ef9c72a8b2b038874e355c6
 Section: Tweaks
 Homepage: http://twitter.com/ijulioverne
 Description: Cydia Download Manager & Extra Features!
@@ -93,9 +93,9 @@ Maintainer: TouchHome <M_Dallak@outlook.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.martinpsham.touchhome_0.0.1-55+debug_iphoneos-arm.deb
 Size: 7430
-MD5sum: a491cae2f76b87a825d4dbec72b8f62c
-SHA1: 0da309dcff45114501e02acf344d4a803f467fd5
-SHA256: 3fe50f2f697a9152a0b65c6b9635a8536f69e0e96c2d16c43548a62e1f0d466f
+MD5sum: fdb8d78374a1a78cfd69c69b9a8a2132
+SHA1: c2017728ddf9ead60c67612fca2bd64870f61c7d
+SHA256: ad4e14bebad004b4013e38e1aece5c3c0c3e0caab3dd5e30d73b96ac96c1359f
 Section: Tweaks
 Description: Use TouchID sensor as Home button
 Author: TouchHome <M_Dallak@outlook.com>
@@ -109,9 +109,9 @@ Maintainer: M Dallak <m_dallak@outlook.com>
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.a3tweaks.flipswitch
 Filename: ./debs/com.tweaksbylogan.falcon_1.0_iphoneos-arm.deb
 Size: 84862
-MD5sum: 8d4ecb968b6586535014edeed833302e
-SHA1: e571aa9576e40e36d65ddfef339ba346fafe99e5
-SHA256: dd949de1efc40ac5eda44807b6e6760ce8b14b25e3803f8d18098bda1706a7b0
+MD5sum: 3c529b3d0fe9245524114b36202d05cd
+SHA1: 81343bc24f6240c25954b31f00c3587349405f4b
+SHA256: be83d3cc16333e051e6546c015f80799ac97e1e05dc4967cc1aa1ee4e3582fa4
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=falconDp
 Description: A powerful, dynamic lock screen and NC add-on!
@@ -129,9 +129,9 @@ Maintainer: D4ni <mail@d4ni.nl>
 Depends: firmware (>= 10.0)
 Filename: ./debs/nl.d4ni.cydiainstall_2.1_iphoneos-arm.deb
 Size: 1811894
-MD5sum: 8317f96402a7dbaf20c4401f47ee2aad
-SHA1: b624d7d0be738e24a52f6ec9c67ec3bb8d1714f9
-SHA256: fa3bcb3901ec4d745aa642adde5344bb9d782b4ec962a754057a62dd26d68440
+MD5sum: 045852e0ad3b7e86dfbf6b39433be0c1
+SHA1: 14bb7a9a52b032dd75ca898b4f3d551b92aec317
+SHA256: 2acf0a9ddf167116bb45b75885d963359b7dd4b4a5357abefc6ad746df914f6d
 Section: Utilities
 Author: D4ni <mail@d4ni.nl>
 Name: Cydia Failsafe
@@ -139,17 +139,17 @@ Name: Cydia Failsafe
 Package: org.thebigboss.protube
 Version: 1.12.2
 Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: M Dallak <M_Dallak@outlook.com>
 Depends: firmware(>= 4.0), preferenceloader
 Filename: ./debs/org.thebigboss.protube_1.12.2_iphoneos-arm.deb
-Size: 5628338
-MD5sum: cd836800998e32e5caacbe6d7c9828c6
-SHA1: 2079a252dd75889609c02ee10fe3c2fafbd0351c
-SHA256: edc0bc4a0c728fbea79e53ccd1fe6f96a2da4ea3676e8091378f949ec5ea868e
+Size: 5628846
+MD5sum: 3b3db4a5c27e09781fb7162d141e9a55
+SHA1: f5daf7a9233b96fb317fbd1d043dad6946ae950a
+SHA256: 13168aa5e56e6cab38c28364ada5447c9da546fc8b176375af16b2b9ecc0f0bc
 Section: Multimedia
 Description: complete feature-filled YouTube app
 Author: Jonas Gessner <support@j-gessner.de>
-Depiction: http://mdallak.github.io/depic/index.html?p=ProTube
+Depiction: http://mdallak.github.io/depic/index.html?p=org.thebigboss.protube
 Dev: maxner
 Icon: file:///Applications/ProTube.app/icon.png
 Name: ProTube

@@ -7,5 +7,6 @@ Description: complete feature-filled YouTube app
 Maintainer: M Dallak <M_Dallak@outlook.com>
 Author: Jonas Gessner <support@j-gessner.de>
 Section: Multimedia
+dev: maxner
 Depiction: http://mdallak.github.io/depic/index.html?p=org.thebigboss.protube
 Icon: file:///Applications/ProTube.app/icon.png
