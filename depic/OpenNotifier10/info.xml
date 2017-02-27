@@ -1,0 +1,27 @@
+<package>
+	<version>2.5.0~beta5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, libmoorecon | libstatusbar, preferenceloader, applist</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Show Notification Icons in the status bar. Unofficial Beta version for my personal use, compiled for iOS9 and armv7 and arm64.</description>
+	</descriptionlist>
+	<changelog>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+        <link>
+            <name>Follow me on Twitter @M_Dallak</name>
+            <url>https://twitter.com/M_Dallak</url>
+        </link>
+	</links>
+</package>

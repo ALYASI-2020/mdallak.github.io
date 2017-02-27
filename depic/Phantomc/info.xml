@@ -1,0 +1,27 @@
+<package>
+	<version>2.17</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.crack.alphantom</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Remove Phantom Ads.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Fix Crack Phantom</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+        <link>
+            <name>Follow me on Twitter @M_Dallak</name>
+            <url>https://twitter.com/M_Dallak</url>
+        </link>
+	</links>
+</package>

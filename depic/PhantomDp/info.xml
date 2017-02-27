@@ -1,23 +1,59 @@
 <package>
-	<version>5.3.2-8-10</version>
+	<version>5.3.2-8</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>com.crack.alphantom</package>
+		<package>com.cokepokes.phantom</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Phantom is in the process of being fully updated to bypass Snapchat’s tweak detection. Currently this is the only Snapchat tweak that works without triggering a connection error or ban!</description>
+        <description>Features:
+            Keep Snaps in the Feed & mark read when you see fit
+            Option to disable the hold gesture to keep snaps open
+            Includes a Snap Log to automatically save sent media
+            Option to disable Phantom (in Settings.app)
+            Enable "Open in" for Snapchat (in Settings.app)
+            Ability to select multiple contacts at once
+            Save received media to:
+            Camera-roll
+            Specified Photo Album
+            Password protected folder (Backed up by iTunes)
+            Send images & videos from the camera-roll:
+            includes an image crop feature
+            ability to override video orientation by shake
+            Additional Caption Effects:
+            Type unlimited amount of text
+            Change text font, size, & color
+            Change caption background image/color
+            Notification Features:
+            Set a custom Snapchat notification sound
+            Status bar notification
+            Hide badge count on app exit</description>
 	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image></image>
+        </screenshot>
+        <screenshot>
+            <image></image>
+        </screenshot>
+        <screenshot>
+            <image></image>
+        </screenshot>
+    </screenshots>
 	<changelog>
-		<change>Crack Phantom</change>
+		<change></change>
 	</changelog>
 	<links>
 		<link>
 			<name>/r/jailbreak</name>
 			<url>https://www.reddit.com/r/jailbreak</url>
 		</link>
+        <link>
+            <name>Follow me on Twitter @M_Dallak</name>
+            <url>https://twitter.com/M_Dallak</url>
+        </link>
 	</links>
 </package>

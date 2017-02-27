@@ -8,6 +8,7 @@ dpkg-deb -bZgzip projects/IAPCrazy debs
 dpkg-deb -bZgzip projects/KGPayphone debs
 dpkg-deb -bZgzip projects/LocalIAPStore debs
 dpkg-deb -bZgzip projects/OpenNotifier10 debs
+dpkg-deb -bZgzip projects/Phantom debs
 dpkg-deb -bZgzip projects/SnapCrack debs
 dpkg-deb -bZgzip projects/TouchHome debs
 dpkg-deb -bZgzip projects/TweakMode debs
