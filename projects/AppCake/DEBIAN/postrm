@@ -1,5 +1,0 @@
-#!/bin/sh
-rm -rf  /var/mobile/Library/Caches/SDDataCache
-rm -rf  /var/mobile/Library/Caches/default/com.hackemist.SDWebImageCache.default
-rm -rf  /var/mobile/Documents/recommendapp.plist
-rm -rf  /var/mobile/Documents/installTwitter.plist
