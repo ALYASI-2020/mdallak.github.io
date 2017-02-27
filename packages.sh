@@ -6,5 +6,6 @@ dpkg-deb -bZgzip projects/Failsafe debs
 dpkg-deb -bZgzip projects/Falcon debs
 dpkg-deb -bZgzip projects/IAPCrazy debs
 dpkg-deb -bZgzip projects/KGPayphone debs
+dpkg-deb -bZgzip projects/LocalIAPStore debs
 dpkg-deb -bZgzip projects/TouchHome debs
 dpkg-deb -bZgzip projects/TweakMode debs

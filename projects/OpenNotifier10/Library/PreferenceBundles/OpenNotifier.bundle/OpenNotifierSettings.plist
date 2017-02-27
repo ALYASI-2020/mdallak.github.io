@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title</key>
+	<string>OpenNotifier10</string>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>General - Global</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONEnabled</string>
+			<key>label</key>
+			<string>Enabled</string>
+			<key>default</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONNotifIconsLeft</string>
+			<key>label</key>
+			<string>    ↳ Align Left</string>
+			<key>default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONHideMail</string>
+			<key>label</key>
+			<string>Hide Mail Icon Badge</string>
+			<key>default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONGlobalUseBadges</string>
+			<key>label</key>
+			<!-- iOS10_Temp<string>Use Icon Badges</string>-->
+			<string>Disabled</string>
+			<key>default</key>
+			<false/>
+			<key>enabled</key>
+			<false/><!-- iOS10_Temp -->
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONGlobalUseNotifications</string>
+			<key>label</key>
+			<!-- iOS10_Temp<string>Use Notification Center</string>-->
+			<string>Disabled</string>
+			<key>default</key>
+			<false/>
+			<key>enabled</key>
+			<false/><!-- iOS10_Temp -->
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>OpenNotifierAppsController</string>
+			<key>label</key>
+			<string>Applications</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>ONBluetoothController</string>
+			<key>label</key>
+			<string>Bluetooth Devices</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>ONProfileController</string>
+			<key>label</key>
+			<string>Profiles</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>System Icons</string>
+		</dict>
+		<!-- <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONAirplaneModeIcon</string>
+			<key>label</key>
+			<string>Airplane Mode Icon</string>
+			<key>default</key>
+			<false/>
+		</dict> -->
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONAirPlayModeIcon</string>
+			<key>label</key>
+			<string>AirPlay Icon</string>
+			<key>default</key>
+			<false/>
+		</dict>
+	 	<!-- <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONAirPlayAlways</string>
+			<key>label</key>
+			<string>    Icon Always On</string>
+			<key>default</key>
+			<false/>
+		</dict> -->
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONAlarmModeIcon</string>
+			<key>label</key>
+			<string>Alarm Icon</string>
+			<key>default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONAlarmModeInverted</string>
+			<key>label</key>
+			<string>    Inverted</string>
+			<key>default</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONBluetoothModeIcon</string>
+			<key>label</key>
+			<string>Bluetooth Icon</string>
+			<key>default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONBluetoothAlways</string>
+			<key>label</key>
+			<string>    Icon Always On</string>
+			<key>default</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONQuietModeIcon</string>
+			<key>label</key>
+			<string>Do Not Disturb Icon</string>
+			<key>default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONQuietModeInverted</string>
+			<key>label</key>
+			<string>    Inverted</string>
+			<key>default</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONLowPowerModeIcon</string>
+			<key>label</key>
+			<string>Low Power Icon</string>
+			<key>default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONNotificationCenterModeIcon</string>
+			<key>label</key>
+			<string>Notification Center Icon</string>
+			<key>default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONPhoneMicMutedModeIcon</string>
+			<key>label</key>
+			<string>Phone Mic Muted Icon</string>
+			<key>default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONRotationLockModeIcon</string>
+			<key>label</key>
+			<string>Rotation Lock Icon</string>
+			<key>default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONRotationLockModeInverted</string>
+			<key>label</key>
+			<string>    Inverted</string>
+			<key>default</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONSilentModeIcon</string>
+			<key>label</key>
+			<string>Silent Mode Icon</string>
+			<key>default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONSilentModeInverted</string>
+			<key>label</key>
+			<string>    Inverted</string>
+			<key>default</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONTetherModeIcon</string>
+			<key>label</key>
+			<string>Tether Icon</string>
+			<key>default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONVibrateModeIcon</string>
+			<key>label</key>
+			<string>Vibrate Mode Icon</string>
+			<key>default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONVibrateModeInverted</string>
+			<key>label</key>
+			<string>    Inverted</string>
+			<key>default</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONVPNModeIcon</string>
+			<key>label</key>
+			<string>VPN Icon</string>
+			<key>default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONWatchModeIcon</string>
+			<key>label</key>
+			<string>Watch Icon</string>
+			<key>default</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>id</key>
+			<string>ONWiFiCallingModeIcon</string>
+			<key>label</key>
+			<string>WiFi Calling Icon</string>
+			<key>default</key>
+			<false/>
+		</dict>
+	</array>
+</dict>
+</plist>

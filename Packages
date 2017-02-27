@@ -1,13 +1,31 @@
+Package: anondev.LocalIAPStore
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: M Dallak <m_dallak@outlook.com>
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: ./debs/anondev.localiapstore_1.4-2_iphoneos-arm.deb
+Size: 68362
+MD5sum: 0c6bcb72b4977c4ae093a2b42c55c193
+SHA1: 1346cff91c3cd3c5d337bd6376c04191eb978a6b
+SHA256: 810751cec1565dba9334f9e19770a3662cd86519b506decdbe7d9b72ebad2d7d
+Section: Tweaks
+Priority: optional
+Description: Pwns In-app purchases on iOS 5.1.1 - 10.2 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
+Author: anondev
+Depiction: http://mdallak.github.io/depic/index.html?p=LocalIAPStore
+Icon: file:///Library/PreferenceLoader/Preferences/LocalIAPStoreIcon@2x.png
+Name: LocalIAPStore
+
 Package: com.Misti.loveiscomplicatedagain
 Version: 4.1
 Architecture: iphoneos-arm
 Maintainer: M Dallak <M_Dallak@outlook.com>
 Depends: com.bytafont.bytafont3
 Filename: ./debs/com.misti.loveiscomplicatedagain_4.1_iphoneos-arm.deb
-Size: 91776
-MD5sum: 81d6dcfe462a02a8770090416c3c57b2
-SHA1: d38b8cf703223ad56187b2aaaaf0d7d02e3157e6
-SHA256: 88e6eae364fd221aae5e6ff00db82cf10991fe816a95b7154367e9524ed49fa6
+Size: 91778
+MD5sum: e25e21b93eb608f05254235f57742695
+SHA1: 1b7b38a4c1483ea1b9625c9e56400ca63accc1ac
+SHA256: c14edb3231deb0910b5f8ec7192fda5523cf67191aad184b70a91e100aedbb3f
 Section: Fonts (BytaFont Tweak Mode)
 Description: Misti's Fonts for BytaFont 3 by M_Dallak
 Author: Misti <M_Dallak@outlook.com>
@@ -21,9 +39,9 @@ Maintainer: BytaFont
 Depends: com.bytafont.bytafont3, mobilesubstrate
 Filename: ./debs/com.bytafont.bytafonttm2_1.2.0_iphoneos-arm.deb
 Size: 27504
-MD5sum: 85625703fc2fbdbc9e6bb31123254f73
-SHA1: f3a429f704f65b624450903f4148d0768ec655f1
-SHA256: c1c5d1d38e88462e2c1b8eaa7413f6ff0445d5a4c53195c1f122c5cb022fec43
+MD5sum: ec412c41709326020351492e42820639
+SHA1: e4f6f370a4c7f0423fd7bf5a027f109b85beeafe
+SHA256: 7b0e6ec65d29b576ceace511c3cc7352866b69c23e640dac732c077fea90df72
 Section: Tweaks
 Homepage: http://twitter.com/mdallak
 Description: Byta Font Tweak Mode 10.2!
@@ -38,9 +56,9 @@ Maintainer: BytaFont.com <info@bytafont.com>
 Depends: com.bytafont.bytafont3
 Filename: ./debs/com.bytafont3.kgpayphone_3.1_iphoneos-arm.deb
 Size: 9456488
-MD5sum: d044846ed39973b4774a52799ad974ce
-SHA1: ca5e7df4b70584e5af8caef7993b68bfc83c307b
-SHA256: f72ed4d3a08c3bbbe20f6945f8ac396e1c848a832770ed37d1d212bc17d08745
+MD5sum: b085845d76736e97aee12371a90f5a3f
+SHA1: ce7fb99c2f73e094195dfdd01dbbf560323a441f
+SHA256: 4dc3f96e155fce0e07ca2d09bc34bc87f90dcb075d2219e2806e45eed5bb5e89
 Section: Fonts (BytaFont 3)
 Description: Font for BytaFont 3 by BytaFont.com
 Author: BytaFont.com <info@bytafont.com>
@@ -55,10 +73,10 @@ Maintainer: AppCake <appcake-support@3skytech.com>
 Pre-Depends: firmware (>= 7.0)
 Depends: mobilesubstrate
 Filename: ./debs/com.iphonecake.appcake2_5.5.2.0_iphoneos-arm.deb
-Size: 8565676
-MD5sum: 9ff413c697ad27f43b41ce5a40bde1ff
-SHA1: df436538532e9dd99f43711dca844ae50ffacae9
-SHA256: 5d676f25b5f277d08f74d46165551796ccc77a64fb4f9d9ea5dd910a9c753498
+Size: 8565682
+MD5sum: 5d2d33305ce75a223a4865efac05db9c
+SHA1: 77d1e4ba694b736e5d7e95804ff3800f1db9c0b7
+SHA256: fb93e258b86092370c8cc5442053bfb1878fef8ded73e6ef70aabc53b0937588
 Section: Utilities
 Description: The new AppCake 5.5.2.0! Introducing Direct Download/Install!  Require AppSync to be installed ***
 Author: Mickael liang <appcake-support@3skytech.com>
@@ -74,9 +92,9 @@ Maintainer: Julio
 Depends: cydia, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate
 Filename: ./debs/com.julioverne.cydown_6.6.1_iphoneos-arm.deb
 Size: 1722012
-MD5sum: 744e641a95d2a5fa094363fe14ea3eb0
-SHA1: db5f52e7560295b5b16617049f387940771748b4
-SHA256: 5e4ff849b93e83af17518083843c119747086dd7ae7a1ef9c5d765671c5096f7
+MD5sum: 1fb9d422f71f3979849f74895480b0db
+SHA1: 66539b80cba2311741a54efede9c4a3031a8dee8
+SHA256: 3657804716328b08383494997c7059e700809bc797aef741e022ef69ce17fd37
 Section: Tweaks
 Homepage: http://twitter.com/ijulioverne
 Description: Cydia Download Manager & Extra Features!
@@ -92,9 +110,9 @@ Maintainer: TouchHome <M_Dallak@outlook.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.martinpsham.touchhome_0.0.1-55+debug_iphoneos-arm.deb
 Size: 7430
-MD5sum: 4d3fa7fb895e3d198c4aa4dd512c2de9
-SHA1: 307c52323212970c5f277108a44deefb6ee59bd2
-SHA256: 2df9d8593dbf6c3ab6b8d24afc5111a78f861fc41aca88aae2847f721d029f65
+MD5sum: 349090b674e277e54059712efe593654
+SHA1: b175e572b6280a11f1b057468256ac4d58058b12
+SHA256: 4629166587276c3fa31876ed9c37a05c7c45d3ec8d428a6c00d1bc25ccd195a6
 Section: Tweaks
 Description: Use TouchID sensor as Home button
 Author: TouchHome <M_Dallak@outlook.com>
@@ -107,10 +125,10 @@ Architecture: iphoneos-arm
 Maintainer: M Dallak <m_dallak@outlook.com>
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.a3tweaks.flipswitch
 Filename: ./debs/com.tweaksbylogan.falcon_1.0_iphoneos-arm.deb
-Size: 84864
-MD5sum: 723438e5b7c2206ecfa7590997aab270
-SHA1: 90d33643b357821c50bbfcedf3cfebb5f662fb25
-SHA256: 2c57cb4f016926f9f4a4e1d0db73077e852e7731881a489e3d1d6138f09b7cfe
+Size: 84878
+MD5sum: 69869f59103c2975c85ed44f76e78284
+SHA1: c2ec0b069d62d04eeeae75de61bbbd918acd8870
+SHA256: 05cb2e0cece1516bceb25d63cbab87675d05a7fbe8d6f2b603b45b6af24a43f1
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=falconDp
 Description: A powerful, dynamic lock screen and NC add-on!
@@ -131,9 +149,9 @@ Replaces: us.hackulo.appsync50
 Provides: appsync
 Filename: ./debs/net.angelxwind.appsyncunified_6.0~b1_iphoneos-arm.deb
 Size: 41818
-MD5sum: d218f3bdf9029754083bfdceab666042
-SHA1: d0d86d47e1a6afb73ab88d1cd409e2e9b52dc794
-SHA256: 7e220dd7c1f2bdb362759f0733101ec9c1af1498746353a26edf78f195f51b1f
+MD5sum: 6a3f02fcba9c23024122299847173286
+SHA1: fcb9939c7f4672341313f254be29c05f60cb9de3
+SHA256: dacaa7b1a777ff63414d1d081f4cf69472969477c43347f667acb35165c522ce
 Section: Tweaks
 Homepage: http://cydia.angelxwind.net/
 Description: AppSync Unified allows you to sync and install unsigned iOS applications. Works on iOS 5 and above.
@@ -148,9 +166,9 @@ Maintainer: D4ni <mail@d4ni.nl>
 Depends: firmware (>= 10.0)
 Filename: ./debs/nl.d4ni.cydiainstall_2.1_iphoneos-arm.deb
 Size: 1811984
-MD5sum: 46b236ec65724cd124fc097b657f9ece
-SHA1: f482362628a296bfff0e1e819dc0745a6f819504
-SHA256: 5fcfb3f381cea17eb0576d7790c60d527e3e515941004161e2f17911f04ab0da
+MD5sum: e96161b7d731a75c2c15efa335d7d7b5
+SHA1: 785dad91bf465224184f75762da416ce616968b9
+SHA256: 8831a5f82c9f28ba974accf039950f1ac000ac45399c1cee5acfbe904074191b
 Section: Utilities
 Description: Adds a springboard icon which can be used to reinstall Cydia if removed.
 Author: D4ni <mail@d4ni.nl>
@@ -164,9 +182,9 @@ Maintainer: songzhiming
 Depends: firmware (>= 7.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Filename: ./debs/zm.iapcrazy_1.6.0_iphoneos-arm.deb
 Size: 9733724
-MD5sum: 572e28c8899038fe06b746d9f770b034
-SHA1: bef5e6e58a40399515a0427ea25f7bd49d88d0a1
-SHA256: 6443d24cea9054fd7046ec5cf3679929c828fc0907491996c6e2ebac78d9a711
+MD5sum: 2d63422ef50a24800526f371b67620b8
+SHA1: 24630aae13b5859f77e1165c76edde57760619f3
+SHA256: 7cef8e4720db03994e3cb9092c8dcfd3a141dd71fa803e82eeef08be302af621
 Section: Tweaks
 Homepage: www.youyuanapp.com
 Description: IAPCrazy 内购神器--1.6.0 for ios7.0~9.3.x
