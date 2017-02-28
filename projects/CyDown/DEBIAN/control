@@ -1,0 +1,11 @@
+Package: com.julioverne.cydown
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Version: 6.6.5
+Depends: cydia, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate
+Architecture: iphoneos-arm
+Description: Cydia Download Manager & Extra Features!
+Depiction: http://mdallak.github.io/depic/index.html?p=CyDown
+Maintainer: Julio
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png

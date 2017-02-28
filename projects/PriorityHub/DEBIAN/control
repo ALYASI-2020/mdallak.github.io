@@ -1,0 +1,11 @@
+Package: me.thomasfinch.priorityhub
+Name: Priority Hub 2 BETA
+Depends: firmware (>= 10), mobilesubstrate, preferenceloader, applist
+Architecture: iphoneos-arm
+Description: Organize your notifications!
+Depiction: http://mdallak.github.io/depic/index.html?p=PriorityHub
+Maintainer: Thomas Finch <tomf64@gmail.com>
+Author: Thomas Finch <tomf64@gmail.com>
+Section: Tweaks
+Version: 2.0-2+debug
+

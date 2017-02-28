@@ -1,0 +1,38 @@
+<package>
+	<version>2.0-2+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader, applist</package>
+	</dependencies>
+	<descriptionlist>
+        <description>Organize your notifications!</description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <image></image>
+        </screenshot>
+        <screenshot>
+            <image></image>
+        </screenshot>
+        <screenshot>
+            <image></image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change></change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+        <link>
+            <name>Follow me on Twitter @M_Dallak</name>
+            <url>https://twitter.com/M_Dallak</url>
+        </link>
+	</links>
+</package>

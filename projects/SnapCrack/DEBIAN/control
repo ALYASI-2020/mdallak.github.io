@@ -1,0 +1,13 @@
+Name: Phantom Crack
+Package: com.crack.alphantom
+Priority: optional
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.cokepokes.phantom
+Version: 2.17
+Architecture: iphoneos-arm
+Description: Phantom Crack
+Depiction: http://mdallak.github.io/depic/index.html?p=Phantomc
+Maintainer: M Dallak <M_Dallak@outlook.com>
+Author: M Dallak <M_Dallak@outlook.com>
+Section: Tweaks
+dev: cokepokes
+

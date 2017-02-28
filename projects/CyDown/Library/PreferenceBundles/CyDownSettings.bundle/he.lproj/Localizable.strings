@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>#CyDown by @ijulioverne is awesome to download paid tweaks direct from Cydia!</key>
+	<string>תוסף #CyDown מאת @ijulioverne is המפתח האדיר! באמצעותו אפשר להוריד חבילות, טוויקים ותוספים ללא תשלום מחנות הסידיה.</string>
+	<key>%d Packages / %d Sources</key>
+	<string>%d חבילות / %d מקורות</string>
+	<key>-TRANSLATOR-</key>
+	<string>Omri Guez </string>
+	<key>-TRANSLATOR_LANGUAGE-</key>
+	<string>Hebrew </string>
+	<key>-TRANSLATOR_URL-</key>
+	<string>https://twitter.com/guezomri</string>
+	<key>//var/mobile/Documents/CyDown/</key>
+	<string>נתיב מטמון לחבילות התקנה:
+//var/mobile/Documents/CyDown/
+
+נתיב גיבוי קובץ:
+///var/mobile/Library/Preferences/com.julioverne.cydown.backups.plist</string>
+	<key>Active downloads queue</key>
+	<string>תור פעיל להורדות</string>
+	<key>Already Applied</key>
+	<string>כבר הוחל</string>
+	<key>Applied in files:</key>
+	<string>קבצים מיושמים:</string>
+	<key>Auto RestartSpringBoard</key>
+	<string> הפעל SpringBoard אוטומטי</string>
+	<key>Backup Manager</key>
+	<string>מנהל הגיבוי</string>
+	<key>Backup/Restore your packages.</key>
+	<string>גיבוי/שחזור לחבילות שלך.</string>
+	<key>Blocker ADs</key>
+	<string>חסום פרסומות</string>
+	<key>Browser Root FileSystem</key>
+	<string>דפדפן קבצי שורש</string>
+	<key>Cached Packages</key>
+	<string>חבילות במטמון</string>
+	<key>Check MD5Sum...</key>
+	<string>בודק MD5Sum...</string>
+	<key>Circular ProgressBar</key>
+	<string>מעגל התקדמות</string>
+	<key>Clear Temp Downloads</key>
+	<string>נקה הורדות זמניות</string>
+	<key>Connections by download</key>
+	<string>מספר חיבורים להורדה</string>
+	<key>Create Backup Now</key>
+	<string>צור גיבוי כעת</string>
+	<key>CyDown Error</key>
+	<string>CyDown שגיאה</string>
+	<key>CyDown Uploader SendSpace</key>
+	<string>CyDown העלאה SendSpace</string>
+	<key>Debian installation:</key>
+	<string>התקנת חבילת דביאן (Debian):</string>
+	<key>Delete this Backup</key>
+	<string>מחק גיבוי</string>
+	<key>Description</key>
+	<string>תיאור</string>
+	<key>Disable Always Purchased</key>
+	<string>הפוך את הרכישה ללא זמינה</string>
+	<key>Disable RestartSpringBoard</key>
+	<string>בטל את SpringBoard</string>
+	<key>Download Link copied to Clipboard</key>
+	<string>הקישור להורדה יועתק אל הלוח</string>
+	<key>Download and Open Window</key>
+	<string>הורד ופתח חלון </string>
+	<key>Download has Background</key>
+	<string>הורד רקעים</string>
+	<key>Enabled</key>
+	<string>מופעל</string>
+	<key>File copied successfully.</key>
+	<string>קובץ הועתק בהצלחה.</string>
+	<key>Follow julioverne</key>
+	<string>עקוב אחריי julioverne</string>
+	<key>HTTPHeaderField: X-Unique-ID.</key>
+	<string>HTTPHeaderField: X--מזהה ייחודי</string>
+	<key>If problem persists contact me on twitter @ijulioverne with package id: </key>
+	<string>אם הבעיה נמשכת פנה אליי בטוויטר @ijulioverne עם מספר החבילה: </string>
+	<key>Import deb file or Upload any file to SendSpace.</key>
+	<string>ייבא או העלה קובץ deb אל SendSpace.</string>
+	<key>Installed Packages:</key>
+	<string>חבילות מותקנות:</string>
+	<key>Installed Sources:</key>
+	<string>מקורות מותקנים:</string>
+	<key>MD5Sum verification error!</key>
+	<string>שגיאה בעת אימות ל-MD5Sum!</string>
+	<key>Manual Refresh Sources</key>
+	<string>מדריך לרענון מקורות</string>
+	<key>Not Installed</key>
+	<string>לא מותקן</string>
+	<key>Not currently available for </key>
+	<string>לא זמין כעת עבור</string>
+	<key>Nothing</key>
+	<string>שום דבר</string>
+	<key>OK</key>
+	<string>אישור</string>
+	<key>Official Server</key>
+	<string>שרת רשמי</string>
+	<key>Package id</key>
+	<string>מזהה חבילות</string>
+	<key>Packages</key>
+	<string>חבילות</string>
+	<key>Payment Required.
+
+Tips: change to udid already purchased in this package on CyDown preferences or turn off option Official Server.</key>
+	<string>התשלום הנדרש.
+
+טיפים: במידה וכבר רכשת חבילה זו אז אתה יכול לשנות או לבטל בהעדפות של CyDown באפשרות שרת הרשמי.</string>
+	<key>Please try Reinstall CyDown.</key>
+	<string>נא נסה להתקין מחדש את CyDown.</string>
+	<key>Please try again later.</key>
+	<string>נא נסה שוב מאוחר יותר.</string>
+	<key>Rebuild Cache (uicache)</key>
+	<string>בנה מחדש את המטמון </string>
+	<key>Red ProgressBar is Turbo Mode enabled.</key>
+	<string>מעקב אדום אומר ש״מצב טורבו״ זמין.</string>
+	<key>Relaunch your SpringBoard.</key>
+	<string>הפעל שוב את SpringBoard.</string>
+	<key>Remove temp files at: /var/mobile/Library/Caches/com.saurik.Cydia/archives/partial/</key>
+	<string>הסרת קבצים זמניים-: /var/mobile/Library/Caches/com.saurik.Cydia/archives/partial/</string>
+	<key>Reset Settings to Defaults</key>
+	<string>שחזר הגדרות לברירת מחדל</string>
+	<key>Restart SpringBoard</key>
+	<string>הפעל מחדש את SpringBoard</string>
+	<key>Restore</key>
+	<string>שחזור</string>
+	<key>Restore this Backup</key>
+	<string>שחזר לגיבוי זה</string>
+	<key>Restore your Backup:</key>
+	<string>שחזור הגיבוי שלך:</string>
+	<key>Show All Actions Available</key>
+	<string>הצג את כל הפעולות הזמינות</string>
+	<key>Show percent Install</key>
+	<string>הצג אחוזי סוללה בהתקנה</string>
+	<key>Skip Source Warning</key>
+	<string>דלג על סורס עם אזהרה</string>
+	<key>Skip uicache</key>
+	<string>דלג על מטמון הסמלים </string>
+	<key>Support</key>
+	<string>תמיכה</string>
+	<key>Support development</key>
+	<string>תמיכה של המפתח</string>
+	<key>Tab Installed more Filters</key>
+	<string>התקנת מסננים נוספים</string>
+	<key>Tap&amp;Hold Package</key>
+	<string>גע&amp;שחרר חבילה</string>
+	<key>This backup contain unknow packages thats not posible to install but can be ignored, if you like to install try adding Sources thats have this package and restore this backup again.</key>
+	<string>גיבוי זה מכיל חבילות לא ידועות וזה לא אפשרי להתקין אבל יכול להתעלם, אם אתה רוצה להתקין נסה להוסיף מקורות שיש לו חבילות כאלה ולשחזר את הגיבוי שוב.</string>
+	<key>This backup not have new packages to install.</key>
+	<string>בגיבוי זה אין חבילות חדשות כדי להתקין.</string>
+	<key>This is not a .deb file.</key>
+	<string>זה אינו קובץ deb...</string>
+	<key>Turbo Mode</key>
+	<string>מצב טורבו</string>
+	<key>UDID:</key>
+	<string>UDID:</string>
+	<key>URL Depiction</key>
+	<string>תיאור URL</string>
+	<key>URL deb file</key>
+	<string>URL deb קובץ</string>
+	<key>Uninstalled Packages:</key>
+	<string>חבילות להסרה:</string>
+	<key>Uninstalled Sources:</key>
+	<string>מקורות להסרה:</string>
+	<key>Unknow Packages:</key>
+	<string>חבילה לא ידועה:</string>
+	<key>Upload to SendSpace</key>
+	<string>העלה אל SendSpace</string>
+	<key>Use in free</key>
+	<string>השתמש בחבילות ללא תשלום</string>
+	<key>Use in larger files that:</key>
+	<string>שימוש בקבצים גדולים יותר:</string>
+	<key>Used if application not show in your SpringBoard.</key>
+	<string>השתמש בתוספים שלא מוצגים ברשימת ה-SpringBoard.</string>
+	<key>Version</key>
+	<string>גרסה</string>
+	<key>Version Registered</key>
+	<string>גרסה רשומה</string>
+	<key>You want to remove this file?</key>
+	<string>אתה רוצה להסיר קובץ זה?</string>
+	<key>has been downloaded!</key>
+	<string>בהורדה!</string>
+	<key>not currently installed.</key>
+	<string>לא מותקנים.</string>
+	<key>use custom udid for download package</key>
+	<string>השתמש ב-udid מותאם אישית עבור חבילת ההורדה.</string>
+	<key>use custum udid for download package</key>
+	<string>השתמש ב- •custum udid• בחבילת ההורדה</string>
+</dict>
+</plist>

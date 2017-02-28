@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = CyDownSettings;
+		cell = PSLinkCell;
+		detail = "CyDownSettingsListController";
+		icon = "CyDown.png";
+		isController = 1;
+		label = CyDown;
+	};
+}

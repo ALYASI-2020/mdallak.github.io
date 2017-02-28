@@ -1,0 +1,14 @@
+Package: com.iphonecake.AppCake2
+Name: AppCake
+Version: 5.5.2.0
+Pre-Depends: firmware (>= 7.0) 
+Depends: mobilesubstrate 
+Architecture: iphoneos-arm 
+Author: Mickael liang <appcake-support@3skytech.com>
+Description: The new AppCake 5.5.2.0! Introducing Direct Download/Install!  Require AppSync to be installed *** 
+Maintainer:  AppCake <appcake-support@3skytech.com>
+Website: http://iphonecake.com/forum/
+Section: Utilities
+Icon: file:///Applications/AppCake.app/icon57x57.png
+Depiction: http://mdallak.github.io/depic/index.html?p=AppCake
+

@@ -1,0 +1,13 @@
+Package: anondev.LocalIAPStore
+Name: LocalIAPStore
+Version: 1.4-2
+Description: Pwns In-app purchases on iOS 5.1.1 - 10.2 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
+Section: Tweaks
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Priority: optional
+Architecture: iphoneos-arm
+Author: anondev
+Depiction: http://mdallak.github.io/depic/index.html?p=LocalIAPStore
+Maintainer: M Dallak <m_dallak@outlook.com>
+Icon: file:///Library/PreferenceLoader/Preferences/LocalIAPStoreIcon@2x.png
+

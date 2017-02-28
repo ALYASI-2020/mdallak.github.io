@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>#CyDown by @ijulioverne is awesome to download paid tweaks direct from Cydia!</key>
+	<string>#CyDown par @ijulioverne est incroyable pour télécharger les tweaks payants directement sur Cydia!</string>
+	<key>-TRANSLATOR-</key>
+	<string>Mistercraft</string>
+	<key>-TRANSLATOR_LANGUAGE-</key>
+	<string>French</string>
+	<key>-TRANSLATOR_URL-</key>
+	<string>Mistercraft38@gmail.com</string>
+	<key>//var/mobile/Documents/CyDown/</key>
+	<string>//var/mobile/Documents/CyDown/</string>
+	<key>Already Applied</key>
+	<string>Déjà Appliqué</string>
+	<key>Applied in files:</key>
+	<string>Appliqué sur les fichiers:</string>
+	<key>Auto RestartSpringBoard</key>
+	<string>Relancer le SpringBoard automatiquement</string>
+	<key>Backup Manager</key>
+	<string>Gestionnaire de sauvegarde</string>
+	<key>Backup/Restore your packages.</key>
+	<string>Sauvegarder/Restaurer vos paquets.</string>
+	<key>Blocker ADs</key>
+	<string>AD Blocker</string>
+	<key>Browser Root FileSystem</key>
+	<string>Explorateur root de fichiers système</string>
+	<key>Cached Packages</key>
+	<string>Paquets en cache</string>
+	<key>Check MD5Sum...</key>
+	<string>Vérification MD5Sum...</string>
+	<key>Clear Temp Downloads</key>
+	<string>Nettoyer les téléchargements temporaires</string>
+	<key>Create Backup Now</key>
+	<string>Créer une sauvegarde maintenant</string>
+	<key>CyDown Error</key>
+	<string>Erreur CyDown</string>
+	<key>CyDown Uploader SendSpace</key>
+	<string>CyDown Envoi SendSpace</string>
+	<key>Debian installation:</key>
+	<string>Installation Debian:</string>
+	<key>Delete this Backup</key>
+	<string>Supprimer cette Sauvegarde</string>
+	<key>Description</key>
+	<string>Description</string>
+	<key>Disable Always Purchased</key>
+	<string>Désactiver Toujours Acheté</string>
+	<key>Disable RestartSpringBoard</key>
+	<string>Désactiver Relancer le SpringBoard</string>
+	<key>Download Link copied to Clipboard</key>
+	<string>Lien de téléchargement copié</string>
+	<key>Download and Open Window</key>
+	<string>Télécharger et ouvrir la fenêtre</string>
+	<key>Download has Background</key>
+	<string>Télécharger en fond</string>
+	<key>Enabled</key>
+	<string>Activé</string>
+	<key>File copied successfully.</key>
+	<string>Copie du fichier réussie.</string>
+	<key>Follow julioverne</key>
+	<string>Suivre julioverne</string>
+	<key>If problem persists contact me on twitter @ijulioverne with package id: </key>
+	<string>Si le problème persiste contactez moi sur Twitter @ijulioverne avec l'id du paquet : </string>
+	<key>Import deb file or Upload any file to SendSpace.</key>
+	<string>Importer un fichier deb ou envoyer un fichier sur SendSpace.</string>
+	<key>Installed Packages:</key>
+	<string>Paquets installés :</string>
+	<key>MD5Sum verification error!</key>
+	<string>La vérification MD5Sum a échouée!</string>
+	<key>Manual Refresh Sources</key>
+	<string>Rafraichir les sources manuellement</string>
+	<key>Not Installed</key>
+	<string>Non Installé</string>
+	<key>Not currently available for </key>
+	<string>Non disponible actuellement pour </string>
+	<key>Nothing</key>
+	<string>Rien</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Official Server</key>
+	<string>Serveur Officiel</string>
+	<key>Package id</key>
+	<string>Id Paquet</string>
+	<key>Packages</key>
+	<string>Paquets</string>
+	<key>Payment Required.  Tips: change to udid already purchased in this package on CyDown preferences or turn off option Official Server.</key>
+	<string>Paiement requis.
+
+Astuce: changer pour un udid l'ayant déjà acheté dans les réglages CyDown ou désactivez l'option Serveur Officiel.</string>
+	<key>Please try Reinstall CyDown.</key>
+	<string>Veuillez essayer de réinstaller CyDown.</string>
+	<key>Please try again later.</key>
+	<string>Veuillez réessayer plus tard.</string>
+	<key>Rebuild Cache (uicache)</key>
+	<string>Reconstruire le cache (uicache)</string>
+	<key>Relaunch your SpringBoard.</key>
+	<string>Relancer votre SpringBoard.</string>
+	<key>Remove temp files at: /var/mobile/Library/Caches/com.saurik.Cydia/archives/partial/</key>
+	<string>Supprimer les fichier temporaires : /var/mobile/Library/Caches/com.saurik.Cydia/archives/partial/</string>
+	<key>Reset Settings to Defaults</key>
+	<string>Réinitialiser les réglages</string>
+	<key>Restart SpringBoard</key>
+	<string>Relancer le SpringBoard</string>
+	<key>Restore</key>
+	<string>Restaurer</string>
+	<key>Restore this Backup</key>
+	<string>Restaurer cette sauvegarde</string>
+	<key>Restore your Backup:</key>
+	<string>Restaurer votre sauvegarde:</string>
+	<key>Show All Actions Available</key>
+	<string>Afficher toutes les acitons disponibles</string>
+	<key>Show percent Install</key>
+	<string>Afficher le pourcentage de l'installation</string>
+	<key>Support development</key>
+	<string>Supporter le développement</string>
+	<key>Tab Installed more Filters</key>
+	<string>Onglet Installés dans les Filtres</string>
+	<key>Tap&amp;Hold Package</key>
+	<string>Appuyer et Maintenir le paquet</string>
+	<key>This backup contain unknow packages thats not posible to install but can be ignored, if you like to install try adding Sources thats have this package and restore this backup again.</key>
+	<string>Cette sauvegarde contient des paquets inconnus qui ne peuvent être installés mais qui peuvent être ignorés, si vous voulez tout de même les installer, essayez d'ajouter les Sources manquantes et de relancer cette sauvegarde.</string>
+	<key>This backup not have new packages to install.</key>
+	<string>Cette sauvegarde n'a pas de nouveau paquet à installer.</string>
+	<key>This is not a .deb file.</key>
+	<string>Ceci n'est pas un fichier .deb.</string>
+	<key>UDID:</key>
+	<string>UDID:</string>
+	<key>URL Depiction</key>
+	<string>Représentation URL</string>
+	<key>URL deb file</key>
+	<string>URL d'un fichier deb</string>
+	<key>Uninstalled Packages:</key>
+	<string>Paquets désinstallés:</string>
+	<key>Unknow Packages:</key>
+	<string>Paquets Inconnus:</string>
+	<key>Upload to SendSpace</key>
+	<string>Upload sur SendSpace</string>
+	<key>Use in free</key>
+	<string>Utiliser pour les paquets gratuits</string>
+	<key>Used if application not show in your SpringBoard.</key>
+	<string>Utiliser si l'application n'apparait pas sur votre SpringBoard.</string>
+	<key>Version</key>
+	<string>Version</string>
+	<key>You want to remove this file?</key>
+	<string>Voulez vous supprimer ce fichier ?</string>
+	<key>has been downloaded!</key>
+	<string>a été téléchargé!</string>
+	<key>not currently installed.</key>
+	<string>pas installé actuellement.</string>
+	<key>use custom udid for download package</key>
+	<string>utiliser un udid personnalisé pour télécharger un paquet</string>
+</dict>
+</plist>

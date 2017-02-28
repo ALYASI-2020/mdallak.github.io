@@ -1,0 +1,11 @@
+Package: nl.d4ni.cydiainstall
+Version: 2.1
+Section: Utilities
+Maintainer: D4ni <mail@d4ni.nl>
+Depends: firmware (>= 10.0)
+Architecture: iphoneos-arm
+Name: Cydia Failsafe
+Author: D4ni <mail@d4ni.nl>
+Description: Adds a springboard icon which can be used to reinstall Cydia if removed.
+Depiction: https://mdallak.github.io/depic/index.html?p=Failsafe
+
